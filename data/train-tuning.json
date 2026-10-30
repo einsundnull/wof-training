@@ -1,0 +1,204 @@
+{
+  "format": "wof.tuning",
+  "version": 1,
+  "preset": "custom",
+  "world": {
+    "gameSpeed": 1.05,
+    "gravity": 260,
+    "maxAlt": 1500
+  },
+  "level": {
+    "islandWidth": 3700,
+    "islandGap": 3600
+  },
+  "player": {
+    "mass": 2.2,
+    "thrust": 230,
+    "maxSpeed": 300,
+    "engineLag": 1.2,
+    "throttleRate": 0.4,
+    "fuelTank": 1,
+    "pitchRate": 85,
+    "turnInertia": 0.35,
+    "grip": 2.5,
+    "stallSpeed": 90,
+    "noseDrop": 45,
+    "takeoffSpeed": 115,
+    "takeoffPitchRate": 25,
+    "takeoffEase": 1.5,
+    "minSpeed": 95,
+    "cruiseSpeed": 96,
+    "cruiseDecel": 60,
+    "turnTime": 1.2,
+    "turnCommit": 0.5,
+    "pivotX": 0,
+    "pivotY": 0
+  },
+  "zero": {
+    "speed": 170,
+    "turnRate": 40,
+    "turnInertia": 0.4,
+    "fireCooldown": 0.11,
+    "fireRange": 650,
+    "aimTolerance": 19,
+    "bulletSpeed": 600,
+    "damage": 3,
+    "hp": 30,
+    "friendlyFire": 1,
+    "holdFireAim": 1,
+    "ramMode": 0,
+    "ramChance": 0.1,
+    "tailGap": 200,
+    "smokeAggro": 1,
+    "aggroK": 1.6,
+    "midair": 1,
+    "turnDodge": 260,
+    "critAngle": 15,
+    "critWindow": 4,
+    "fireLoss": 0.8,
+    "evadeChance": 0.95,
+    "evadeTime": 3,
+    "scaredDamage": 30,
+    "fleeDamage": 50,
+    "longShotChance": 1,
+    "longRange": 900,
+    "followAlt": 140,
+    "repairTime": 120
+  },
+  "airfield": {
+    "planes": 5,
+    "airborne": 3,
+    "aaGuns": 4,
+    "hangarHp": 2
+  },
+  "ecarrier": {
+    "fromLevel": 2,
+    "planes": 5,
+    "aaGuns": 3,
+    "fireCooldown": 1.4,
+    "fireRange": 620,
+    "speed": 6,
+    "patrolRange": 250,
+    "sinkTime": 28
+  },
+  "tbomber": {
+    "tbPlanes": 1,
+    "tbInterval": 45,
+    "speed": 130,
+    "tbAlt": 160,
+    "tbDropDist": 450,
+    "turnRate": 45,
+    "hp": 19,
+    "carrierHits": 3,
+    "gunRange": 710,
+    "gunArc": 60,
+    "gunCooldown": 0.5,
+    "gunDamage": 3
+  },
+  "aa": {
+    "aimSpeed": 70,
+    "fireCooldown": 2.6,
+    "fireRange": 480,
+    "shellSpeed": 320,
+    "shellGravity": 1,
+    "spread": 80,
+    "lead": 0.8,
+    "damage": 9,
+    "burstRadius": 48
+  },
+  "bunker": {
+    "aimSpeed": 90,
+    "fireCooldown": 1.6,
+    "fireRange": 280,
+    "bulletSpeed": 360,
+    "spreadDeg": 6,
+    "damage": 2,
+    "hp": 2,
+    "rocketOnly": 1
+  },
+  "building": {
+    "barracksHp": 1,
+    "fuelHp": 1,
+    "fuelBlast": 75,
+    "crashBlast": 40
+  },
+  "soldier": {
+    "runSpeed": 22,
+    "fireCooldown": 1.4,
+    "fireRange": 300,
+    "bulletSpeed": 320,
+    "damage": 1,
+    "crew": 3,
+    "occupants": 3,
+    "reinforceDelay": 8
+  },
+  "ship": {
+    "speed": 12,
+    "patrolRange": 200,
+    "fireCooldown": 3,
+    "hp": 3
+  },
+  "carrier": {
+    "deckRoll": 95,
+    "deckBrake": 90,
+    "elevatorTime": 1.5,
+    "bobAmp": 6,
+    "bobPeriod": 10.5,
+    "landMaxSpeed": 170,
+    "landMaxAngle": 18,
+    "landMaxSink": 160,
+    "serviceRate": 0.3,
+    "gearDist": 900,
+    "gearAlt": 200,
+    "gearTime": 1,
+    "landAlt": 120,
+    "landAngle": 6,
+    "landSink": 60,
+    "hookDecel": 200,
+    "hookRamp": 0.15,
+    "landSpeedHint": 1
+  },
+  "bomb": {
+    "gravity": 300,
+    "airDrag": 0.1,
+    "inherit": 1,
+    "blastRadius": 48,
+    "damage": 2,
+    "fireCooldown": 0.45
+  },
+  "rocket": {
+    "speed": 420,
+    "rampTime": 0.5,
+    "gravity": 50,
+    "life": 3,
+    "blastRadius": 34,
+    "fireCooldown": 0.6
+  },
+  "torpedo": {
+    "dropGravity": 300,
+    "waterSpeed": 190,
+    "runTime": 9,
+    "maxDropAlt": 70
+  },
+  "gun": {
+    "bulletSpeed": 600,
+    "fireCooldown": 0.11,
+    "bulletGravity": 0.3,
+    "selfHit": 1,
+    "selfDamage": 5,
+    "selfSafe": 0.4,
+    "critChance": 12
+  },
+  "gunner": {
+    "arc": 165,
+    "turnRate": 150,
+    "fireCooldown": 0.12,
+    "critChance": 24
+  },
+  "debug": {
+    "invulnerable": 0,
+    "infiniteFuel": 0,
+    "infiniteAmmo": 0,
+    "ecarrierLevel1": 1
+  }
+}

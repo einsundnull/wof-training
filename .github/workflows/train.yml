@@ -1,0 +1,53 @@
+name: train
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'single = one skill (train-pilot) · zk = crosshair alternation (zk-wechsel)'
+        default: single
+        type: choice
+        options: [single, zk]
+      fach:
+        description: 'skill (single), e.g. jaeger, zk-zero, zk-flucht'
+        default: zk-zero
+      gens:
+        description: 'generations (single) / generations per block (zk)'
+        default: '20'
+      pop:
+        description: 'population'
+        default: '24'
+      rounds:
+        description: 'rounds (zk only)'
+        default: '3'
+permissions:
+  contents: write
+concurrency:
+  group: train
+  cancel-in-progress: false
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: train
+        env:
+          WOF_NO_PUSH: '1'
+          WOF_PHYS: game
+          WOF_ZK_LOG: train-log.txt
+        run: |
+          if [ "${{ inputs.mode }}" = "zk" ]; then
+            node tools/zk-wechsel.mjs "${{ inputs.rounds }}" "${{ inputs.gens }}" "${{ inputs.pop }}"
+          else
+            node tools/train-pilot.mjs "${{ inputs.fach }}" "${{ inputs.gens }}" "${{ inputs.pop }}" | tee -a train-log.txt
+          fi
+      - name: commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/*-brains.json train-log.txt || true
+          git diff --cached --quiet || git commit -m "training: ${{ inputs.mode }} ${{ inputs.fach }} ${{ inputs.gens }}x${{ inputs.pop }}"
+          git push
