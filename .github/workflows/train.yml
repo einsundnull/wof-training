@@ -33,11 +33,14 @@ on:
       chain:
         description: 'follow-up runs started automatically afterwards'
         default: '0'
+      only:
+        description: 'nacht: only this job (generaele, flak, heck, zeros); empty = all four'
+        default: ''
 permissions:
   contents: write
   actions: write
 concurrency:
-  group: train
+  group: train-${{ inputs.only }}
   cancel-in-progress: false
 jobs:
   nacht:
@@ -58,10 +61,13 @@ jobs:
             cmd: node tools/fach-night.mjs jaeger 10 24 HOURS
     steps:
       - uses: actions/checkout@v4
+        if: inputs.only == '' || inputs.only == matrix.name
       - uses: actions/setup-node@v4
+        if: inputs.only == '' || inputs.only == matrix.name
         with:
           node-version: '22'
       - name: train ${{ matrix.name }}
+        if: inputs.only == '' || inputs.only == matrix.name
         env:
           WOF_HOST: github
           WOF_NO_PUSH: '1'
@@ -102,7 +108,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           if [ -f STOP ]; then echo "STOP liegt im Repo — kein Folge-Lauf"; exit 0; fi
-          gh workflow run train.yml -R "${{ github.repository }}" -f mode=nacht -f hours="${{ inputs.hours }}" -f chain="$(( ${{ inputs.chain }} - 1 ))"
+          gh workflow run train.yml -R "${{ github.repository }}" -f mode=nacht -f hours="${{ inputs.hours }}" -f chain="$(( ${{ inputs.chain }} - 1 ))" -f only="${{ inputs.only }}"
   single:
     if: inputs.mode != 'nacht'
     runs-on: ubuntu-latest
