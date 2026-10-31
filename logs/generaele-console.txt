@@ -1,0 +1,20 @@
+2026-10-31 23:15:10 Duell-Training gestartet: Block 10 Gen. · Volk 24 · höchstens 5 h · Wechsel ab 10 Punkten Vorsprung, spätestens nach 10 Blöcken
+2026-10-31 23:15:16   Deutsche gegen Regel: Punkte -98 · Feind-Tote 13.4 · eigene Tote 14.3 · Rückzug 0 % · Siege 6 % · Niederlagen 75 % · ohne Kampf 0 %
+node:fs:2430
+    return binding.writeFileUtf8(
+                   ^
+
+Error: ENOENT: no such file or directory, open '/home/runner/work/wof-training/wof-training/data/train-archive/bk-best-de.json'
+    at writeFileSync (node:fs:2430:20)
+    at ca (file:///home/runner/work/wof-training/wof-training/tools/bk-duel.mjs:3:1669)
+    at file:///home/runner/work/wof-training/wof-training/tools/bk-duel.mjs:3:2038
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:681:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/runner/work/wof-training/wof-training/data/train-archive/bk-best-de.json'
+}
+
+Node.js v22.23.4
