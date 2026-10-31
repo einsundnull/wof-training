@@ -1,17 +1,25 @@
 name: train
+# Workflow des öffentlichen Trainings-Repos einsundnull/wof-training (Vorlage im Spiel-Repo: tools/public-train.yml,
+# kopiert von tools/build-public-training.mjs). 2026-11-01, User: "Das Training soll auch auf GitHub laufen … Die
+# Trainingsdateien dürfen sich nicht gegenseitig behindern oder löschen."
+#   mode nacht  = vier Jobs gleichzeitig, je ein Fach mit eigener Gehirn-Datei (keine zwei Jobs schreiben dieselbe Datei)
+#   mode single = ein Fach (train-pilot), mode zk = Zielkreuz-Wechsel
+# Sicherung: alle 15 min Commit + Push von data/train-vault/github/, den Gehirn-Dateien und logs/ — ein abgebrochener Job
+# verliert höchstens 15 min. chain = so viele Folge-Läufe startet der Workflow danach selbst (je ≈ 5,5 h).
+# Anhalten: Lauf in GitHub abbrechen, oder Datei STOP ins Repo legen (dann startet kein Folge-Lauf).
 on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'single = one skill (train-pilot) · zk = crosshair alternation (zk-wechsel)'
-        default: single
+        description: 'nacht = 4 skills in parallel · single = one skill · zk = crosshair alternation'
+        default: nacht
         type: choice
-        options: [single, zk]
+        options: [nacht, single, zk]
       fach:
-        description: 'skill (single), e.g. jaeger, zk-zero, zk-flucht'
-        default: zk-zero
+        description: 'skill (single)'
+        default: flak
       gens:
-        description: 'generations (single) / generations per block (zk)'
+        description: 'generations (single) / per block (zk)'
         default: '20'
       pop:
         description: 'population'
@@ -19,13 +27,84 @@ on:
       rounds:
         description: 'rounds (zk only)'
         default: '3'
+      hours:
+        description: 'hours per job (nacht)'
+        default: '5'
+      chain:
+        description: 'follow-up runs started automatically afterwards'
+        default: '0'
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: train
   cancel-in-progress: false
 jobs:
-  train:
+  nacht:
+    if: inputs.mode == 'nacht'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: generaele
+            cmd: node tools/bk-duel.mjs 10 24 HOURS
+          - name: flak
+            cmd: node tools/fach-night.mjs flak 10 24 HOURS
+          - name: heck
+            cmd: node tools/fach-night.mjs heck 10 24 HOURS
+          - name: zeros
+            cmd: node tools/fach-night.mjs jaeger 10 24 HOURS
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: train ${{ matrix.name }}
+        env:
+          WOF_HOST: github
+          WOF_NO_PUSH: '1'
+          WOF_PHYS: game
+          WOF_NIGHT_LOG: logs/${{ matrix.name }}.txt
+          JOB: ${{ matrix.name }}
+          CMD: ${{ matrix.cmd }}
+          HOURS: ${{ inputs.hours }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          mkdir -p logs data/train-vault
+          save() {
+            git add data/train-vault data/*-brains.json logs || true
+            git diff --cached --quiet && return 0
+            git commit -q -m "training $JOB $(date -u +%Y-%m-%dT%H:%M)" || return 0
+            for i in 1 2 3 4 5 6; do
+              git pull -q --rebase --autostash && git push -q && return 0
+              sleep $((i * 7))
+            done
+            echo "Sicherung: Push ging nicht (bleibt im Commit, nächster Versuch in 15 min)"
+          }
+          ( while sleep 900; do save; done ) &
+          SAVER=$!
+          RUN="${CMD//HOURS/$HOURS}"
+          echo "$RUN"
+          timeout --signal=INT 330m bash -c "$RUN" 2>&1 | tee -a "logs/$JOB-console.txt" || true
+          kill $SAVER || true
+          save
+  next:
+    needs: nacht
+    if: always() && inputs.mode == 'nacht' && inputs.chain != '0'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: start follow-up run
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f STOP ]; then echo "STOP liegt im Repo — kein Folge-Lauf"; exit 0; fi
+          gh workflow run train.yml -R "${{ github.repository }}" -f mode=nacht -f hours="${{ inputs.hours }}" -f chain="$(( ${{ inputs.chain }} - 1 ))"
+  single:
+    if: inputs.mode != 'nacht'
     runs-on: ubuntu-latest
     timeout-minutes: 350
     steps:
@@ -35,19 +114,22 @@ jobs:
           node-version: '22'
       - name: train
         env:
+          WOF_HOST: github
           WOF_NO_PUSH: '1'
           WOF_PHYS: game
-          WOF_ZK_LOG: train-log.txt
+          WOF_ZK_LOG: logs/zk.txt
         run: |
+          mkdir -p logs
           if [ "${{ inputs.mode }}" = "zk" ]; then
             node tools/zk-wechsel.mjs "${{ inputs.rounds }}" "${{ inputs.gens }}" "${{ inputs.pop }}"
           else
-            node tools/train-pilot.mjs "${{ inputs.fach }}" "${{ inputs.gens }}" "${{ inputs.pop }}" | tee -a train-log.txt
+            node tools/train-pilot.mjs "${{ inputs.fach }}" "${{ inputs.gens }}" "${{ inputs.pop }}" | tee -a "logs/${{ inputs.fach }}.txt"
           fi
       - name: commit results
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add data/*-brains.json train-log.txt || true
+          git add data/train-vault data/*-brains.json logs || true
           git diff --cached --quiet || git commit -m "training: ${{ inputs.mode }} ${{ inputs.fach }} ${{ inputs.gens }}x${{ inputs.pop }}"
-          git push
+          for i in 1 2 3 4 5; do git pull -q --rebase --autostash && git push -q && exit 0; sleep $((i * 7)); done
