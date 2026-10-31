@@ -1,0 +1,22 @@
+2026-10-31 23:16:56 Nacht-Schleife heck gestartet auf github: Block 10 Gen. · Volk 24 · höchstens 5 h
+2026-10-31 23:16:56 — Runde 1: 10 Generationen × 24
+2026-10-31 23:24:55   Übung "heck": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 51 (Champion hatte -1450 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-10-31 23:24:55   Belohnungs-Prüfung: regel -6235 · nie -8577 · dauer -9201 · zufall -9673
+2026-10-31 23:24:55   Start 2026-10-31 23:16:56 UTC · Belohnungs-Prüfung 29.1 s.
+2026-10-31 23:24:55   Generation   52  bester  -4272  Schnitt  -6403  Schussweite 39 %  Decke 0 %  Treffer 22.8 HP  (49.7 s)  neuer Champion -6989 (aus Generation 51)
+2026-10-31 23:24:55   Generation   53  bester  -5154  Schnitt  -7336  Schussweite 41 %  Decke 0 %  Treffer 21.2 HP  (39.0 s)  neuer Champion -6826 (aus Generation 52)
+2026-10-31 23:24:55   Generation   54  bester  -4646  Schnitt  -5962  Schussweite 40 %  Decke 0 %  Treffer 12.7 HP  (41.8 s)  neuer Champion -6645 (aus Generation 53)
+2026-10-31 23:24:55   Generation   55  bester  -4226  Schnitt  -5199  Schussweite 35 %  Decke 0 %  Treffer 8 HP  (45.9 s)  neuer Champion -5585 (aus Generation 54)
+2026-10-31 23:24:55   Generation   56  bester  -4798  Schnitt  -8285  Schussweite 39 %  Decke 0 %  Treffer 8.3 HP  (49.3 s)  (Generation 55 auf den Prüfflügen -6551 < Champion -5585)
+2026-10-31 23:24:55   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-10-31 23:24:55   Generation   57  bester  -5288  Schnitt  -7359  Schussweite 40 %  Decke 0 %  Treffer 11.2 HP  (42.6 s)  (Generation 56 auf den Prüfflügen -6020 < Champion -5585)
+2026-10-31 23:24:55   Generation   58  bester  -4393  Schnitt  -5432  Schussweite 41 %  Decke 0 %  Treffer 21.8 HP  (46.3 s)  (Generation 57 auf den Prüfflügen -6830 < Champion -5585)
+2026-10-31 23:24:55   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-10-31 23:24:55   Generation   59  bester  -4837  Schnitt  -5785  Schussweite 38 %  Decke 0 %  Treffer 17.7 HP  (44.3 s)  neuer Champion -5102 (aus Generation 58)
+2026-10-31 23:24:55   Generation   60  bester  -4338  Schnitt  -5923  Schussweite 35 %  Decke 0 %  Treffer 13.3 HP  (41.4 s)  (Generation 59 auf den Prüfflügen -6829 < Champion -5102)
+2026-10-31 23:24:55   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-10-31 23:24:55   Generation   61  bester  -5053  Schnitt  -5748  Schussweite 40 %  Decke 0 %  Treffer 19 HP  (49.1 s)  (Generation 60 auf den Prüfflügen -6829 < Champion -5102)  (Generation 61 auf den Prüfflügen -5585 < Champion -5102)
+2026-10-31 23:24:55   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-10-31 23:24:55   Zeit: Start 2026-10-31 23:16:56 · Ende 2026-10-31 23:24:55 UTC · Dauer 8.0 min · je Generation 44.9 s (39.0–49.7 s) · Belohnungs-Prüfung 29.1 s · 1128 Flüge à 1.57 s Rechenzeit · Kerne ausgelastet 99 %
+2026-10-31 23:24:55   Tresor: 5 Champions gesichert (github/heck)
+2026-10-31 23:24:55 — Runde 2: 10 Generationen × 24
