@@ -1305,3 +1305,69 @@
 2026-11-01 06:43:12   Zeit: Start 2026-11-01 06:37:03 · Ende 2026-11-01 06:43:12 UTC · Dauer 6.2 min · je Generation 34.6 s (31.9–41.9 s) · Belohnungs-Prüfung 23.1 s · 1128 Flüge à 1.21 s Rechenzeit · Kerne ausgelastet 99 %
 2026-11-01 06:43:12   Tresor: 84 Champions gesichert (github/heck)
 2026-11-01 06:43:12 — Runde 25: 10 Generationen × 24
+2026-11-01 06:49:21   Übung "heck": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 661 (Champion hatte -3704 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 06:49:21   Belohnungs-Prüfung: regel -5303 · nie -7839 · dauer -7273 · zufall -8192
+2026-11-01 06:49:21   Start 2026-11-01 06:43:12 UTC · Belohnungs-Prüfung 23.3 s.
+2026-11-01 06:49:21   Generation  662  bester  -3263  Schnitt  -2527  Schussweite 46 %  Decke 0 %  Treffer 28.5 HP  (38.3 s)  neuer Champion -3704 (aus Generation 661)
+2026-11-01 06:49:21   Generation  663  bester  -4664  Schnitt  -6995  Schussweite 45 %  Decke 0 %  Treffer 14.2 HP  (33.5 s)  (Generation 662 auf den Prüfflügen -5860 < Champion -3704)
+2026-11-01 06:49:21   Generation  664  bester  -3632  Schnitt  -6076  Schussweite 47 %  Decke 0 %  Treffer 18.5 HP  (37.4 s)  (Generation 663 auf den Prüfflügen -5298 < Champion -3704)
+2026-11-01 06:49:21   Generation  665  bester  -4825  Schnitt  -6957  Schussweite 44 %  Decke 0 %  Treffer 23.7 HP  (33.4 s)  (Generation 664 auf den Prüfflügen -5402 < Champion -3704)
+2026-11-01 06:49:21   Generation  666  bester  -4975  Schnitt  -6120  Schussweite 46 %  Decke 0 %  Treffer 33.3 HP  (36.0 s)  (Generation 665 auf den Prüfflügen -6957 < Champion -3704)
+2026-11-01 06:49:21   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:49:21   Generation  667  bester  -4628  Schnitt  -6551  Schussweite 40 %  Decke 0 %  Treffer 22.3 HP  (34.4 s)  (Generation 666 auf den Prüfflügen -4824 < Champion -3704)
+2026-11-01 06:49:21   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:49:21   Generation  668  bester  -3036  Schnitt  -8422  Schussweite 43 %  Decke 0 %  Treffer 21.2 HP  (32.2 s)  (Generation 667 auf den Prüfflügen -5102 < Champion -3704)
+2026-11-01 06:49:21   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:49:21   Generation  669  bester  -1971  Schnitt  -4801  Schussweite 42 %  Decke 0 %  Treffer 18.7 HP  (32.4 s)  (Generation 668 auf den Prüfflügen -5720 < Champion -3704)
+2026-11-01 06:49:21   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:49:21   Generation  670  bester  -4681  Schnitt  -6035  Schussweite 50 %  Decke 0 %  Treffer 26.2 HP  (33.3 s)  (Generation 669 auf den Prüfflügen -6328 < Champion -3704)
+2026-11-01 06:49:21   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:49:21   Generation  671  bester  -2149  Schnitt  -5771  Schussweite 50 %  Decke 0 %  Treffer 26.8 HP  (34.7 s)  (Generation 670 auf den Prüfflügen -5056 < Champion -3704)  (Generation 671 auf den Prüfflügen -5929 < Champion -3704)
+2026-11-01 06:49:21   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:49:21   Zeit: Start 2026-11-01 06:43:12 · Ende 2026-11-01 06:49:21 UTC · Dauer 6.1 min · je Generation 34.6 s (32.2–38.3 s) · Belohnungs-Prüfung 23.3 s · 1128 Flüge à 1.21 s Rechenzeit · Kerne ausgelastet 99 %
+2026-11-01 06:49:21   Tresor: 85 Champions gesichert (github/heck)
+2026-11-01 06:49:21 — Runde 26: 10 Generationen × 24
+2026-11-01 06:55:41   Übung "heck": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 671 (Champion hatte -3704 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 06:55:41   Belohnungs-Prüfung: regel -5303 · nie -7839 · dauer -7273 · zufall -8192
+2026-11-01 06:55:41   Start 2026-11-01 06:49:21 UTC · Belohnungs-Prüfung 23.2 s.
+2026-11-01 06:55:41   Generation  672  bester  -3845  Schnitt  -4458  Schussweite 44 %  Decke 0 %  Treffer 17.2 HP  (42.3 s)  neuer Champion -3704 (aus Generation 671)
+2026-11-01 06:55:41   Generation  673  bester  -3469  Schnitt  -4474  Schussweite 45 %  Decke 0 %  Treffer 23.3 HP  (32.5 s)  (Generation 672 auf den Prüfflügen -4962 < Champion -3704)
+2026-11-01 06:55:41   Generation  674  bester  -4315  Schnitt  -4480  Schussweite 43 %  Decke 0 %  Treffer 24 HP  (36.7 s)  (Generation 673 auf den Prüfflügen -4823 < Champion -3704)
+2026-11-01 06:55:41   Generation  675  bester  -4790  Schnitt  -6741  Schussweite 44 %  Decke 0 %  Treffer 14 HP  (36.5 s)  (Generation 674 auf den Prüfflügen -4288 < Champion -3704)
+2026-11-01 06:55:41   Generation  676  bester  -2888  Schnitt  -5728  Schussweite 44 %  Decke 0 %  Treffer 26.3 HP  (34.9 s)  (Generation 675 auf den Prüfflügen -5046 < Champion -3704)
+2026-11-01 06:55:41   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:55:41   Generation  677  bester  -3485  Schnitt  -5306  Schussweite 43 %  Decke 0 %  Treffer 19.7 HP  (34.1 s)  (Generation 676 auf den Prüfflügen -5482 < Champion -3704)
+2026-11-01 06:55:41   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:55:41   Generation  678  bester  -4233  Schnitt  -4772  Schussweite 40 %  Decke 0 %  Treffer 15.3 HP  (34.0 s)  (Generation 677 auf den Prüfflügen -4717 < Champion -3704)
+2026-11-01 06:55:41   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:55:41   Generation  679  bester  -4711  Schnitt  -4813  Schussweite 44 %  Decke 0 %  Treffer 17 HP  (35.6 s)  (Generation 678 auf den Prüfflügen -6317 < Champion -3704)
+2026-11-01 06:55:41   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:55:41   Generation  680  bester  -3454  Schnitt  -5698  Schussweite 47 %  Decke 0 %  Treffer 22.2 HP  (35.3 s)  (Generation 679 auf den Prüfflügen -6409 < Champion -3704)
+2026-11-01 06:55:41   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:55:41   Generation  681  bester  -3277  Schnitt  -5724  Schussweite 42 %  Decke 0 %  Treffer 20.5 HP  (34.8 s)  (Generation 681 auf den Prüfflügen -5888 < Champion -3704)
+2026-11-01 06:55:41   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 06:55:41   Zeit: Start 2026-11-01 06:49:21 · Ende 2026-11-01 06:55:41 UTC · Dauer 6.3 min · je Generation 35.7 s (32.5–42.3 s) · Belohnungs-Prüfung 23.2 s · 1120 Flüge à 1.26 s Rechenzeit · Kerne ausgelastet 99 %
+2026-11-01 06:55:41   Tresor: 86 Champions gesichert (github/heck)
+2026-11-01 06:55:41 — Runde 27: 10 Generationen × 24
+2026-11-01 07:01:57   Übung "heck": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 681 (Champion hatte -3704 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 07:01:57   Belohnungs-Prüfung: regel -5303 · nie -7839 · dauer -7273 · zufall -8192
+2026-11-01 07:01:57   Start 2026-11-01 06:55:41 UTC · Belohnungs-Prüfung 23.2 s.
+2026-11-01 07:01:57   Generation  682  bester  -3881  Schnitt  -6483  Schussweite 46 %  Decke 0 %  Treffer 33.8 HP  (40.8 s)  neuer Champion -3704 (aus Generation 681)
+2026-11-01 07:01:57   Generation  683  bester  -5146  Schnitt  -7154  Schussweite 40 %  Decke 0 %  Treffer 15.5 HP  (33.6 s)  (Generation 682 auf den Prüfflügen -4052 < Champion -3704)
+2026-11-01 07:01:57   Generation  684  bester  -4338  Schnitt  -7053  Schussweite 40 %  Decke 0 %  Treffer 28.2 HP  (35.1 s)  (Generation 683 auf den Prüfflügen -4675 < Champion -3704)
+2026-11-01 07:01:57   Generation  685  bester  -3916  Schnitt  -6148  Schussweite 46 %  Decke 0 %  Treffer 29.7 HP  (35.3 s)  (Generation 684 auf den Prüfflügen -4734 < Champion -3704)
+2026-11-01 07:01:57   Generation  686  bester  -3272  Schnitt  -6532  Schussweite 44 %  Decke 0 %  Treffer 20.2 HP  (36.6 s)  (Generation 685 auf den Prüfflügen -6592 < Champion -3704)
+2026-11-01 07:01:57   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 07:01:57   Generation  687  bester  -4351  Schnitt  -6888  Schussweite 45 %  Decke 0 %  Treffer 20.2 HP  (37.1 s)  (Generation 686 auf den Prüfflügen -5131 < Champion -3704)
+2026-11-01 07:01:57   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 07:01:57   Generation  688  bester  -4651  Schnitt  -6585  Schussweite 46 %  Decke 0 %  Treffer 22.5 HP  (33.5 s)  (Generation 687 auf den Prüfflügen -5043 < Champion -3704)
+2026-11-01 07:01:57   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 07:01:57   Generation  689  bester  -4659  Schnitt  -6764  Schussweite 44 %  Decke 0 %  Treffer 20.8 HP  (34.2 s)  (Generation 688 auf den Prüfflügen -6032 < Champion -3704)
+2026-11-01 07:01:57   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 07:01:57   Generation  690  bester  -4602  Schnitt  -5716  Schussweite 41 %  Decke 0 %  Treffer 23.7 HP  (31.6 s)  (Generation 689 auf den Prüfflügen -5043 < Champion -3704)
+2026-11-01 07:01:57   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 07:01:57   Generation  691  bester  -3814  Schnitt  -6086  Schussweite 44 %  Decke 0 %  Treffer 21.7 HP  (35.1 s)  (Generation 690 auf den Prüfflügen -5043 < Champion -3704)  (Generation 691 auf den Prüfflügen -5932 < Champion -3704)
+2026-11-01 07:01:57   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 07:01:57   Zeit: Start 2026-11-01 06:55:41 · Ende 2026-11-01 07:01:57 UTC · Dauer 6.3 min · je Generation 35.3 s (31.6–40.8 s) · Belohnungs-Prüfung 23.2 s · 1128 Flüge à 1.24 s Rechenzeit · Kerne ausgelastet 99 %
+2026-11-01 07:01:57   Tresor: 87 Champions gesichert (github/heck)
+2026-11-01 07:01:57 — Runde 28: 10 Generationen × 24
