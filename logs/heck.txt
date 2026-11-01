@@ -1627,3 +1627,31 @@
 2026-11-01 08:15:40   Zeit: Start 2026-11-01 08:09:28 · Ende 2026-11-01 08:15:40 UTC · Dauer 6.2 min · je Generation 34.8 s (30.6–40.1 s) · Belohnungs-Prüfung 23.2 s · 1120 Flüge à 1.23 s Rechenzeit · Kerne ausgelastet 99 %
 2026-11-01 08:15:40   Tresor: 100 Champions gesichert (github/heck)
 2026-11-01 08:15:40 — Runde 40: 10 Generationen × 24
+2026-11-01 08:21:44   Übung "heck": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 811 (Champion hatte -3380 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 08:21:44   Belohnungs-Prüfung: regel -5303 · nie -7839 · dauer -7273 · zufall -8192
+2026-11-01 08:21:44   Start 2026-11-01 08:15:40 UTC · Belohnungs-Prüfung 23.5 s.
+2026-11-01 08:21:44   Generation  812  bester  -3950  Schnitt  -5749  Schussweite 48 %  Decke 0 %  Treffer 24 HP  (36.9 s)  neuer Champion -3380 (aus Generation 811)
+2026-11-01 08:21:44   Generation  813  bester  -4060  Schnitt  -2050  Schussweite 47 %  Decke 0 %  Treffer 25.2 HP  (32.3 s)  (Generation 812 auf den Prüfflügen -4958 < Champion -3380)
+2026-11-01 08:21:44   Generation  814  bester  -3339  Schnitt  -5888  Schussweite 44 %  Decke 0 %  Treffer 24 HP  (31.5 s)  (Generation 813 auf den Prüfflügen -5269 < Champion -3380)
+2026-11-01 08:21:44   Generation  815  bester  -5141  Schnitt  -6684  Schussweite 37 %  Decke 0 %  Treffer 10.7 HP  (34.3 s)  (Generation 814 auf den Prüfflügen -5269 < Champion -3380)
+2026-11-01 08:21:44   Generation  816  bester  -4983  Schnitt  -6942  Schussweite 51 %  Decke 0 %  Treffer 22.7 HP  (30.7 s)  (Generation 815 auf den Prüfflügen -6931 < Champion -3380)
+2026-11-01 08:21:44   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 08:21:44   Generation  817  bester  -2724  Schnitt  -6873  Schussweite 40 %  Decke 0 %  Treffer 22.5 HP  (36.0 s)  (Generation 816 auf den Prüfflügen -4389 < Champion -3380)
+2026-11-01 08:21:44   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 08:21:44   Generation  818  bester  -4068  Schnitt  -5426  Schussweite 36 %  Decke 0 %  Treffer 16.8 HP  (34.1 s)  (Generation 817 auf den Prüfflügen -6609 < Champion -3380)
+2026-11-01 08:21:44   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 08:21:44   Generation  819  bester  -4361  Schnitt  -6734  Schussweite 44 %  Decke 0 %  Treffer 20.5 HP  (32.7 s)  (Generation 818 auf den Prüfflügen -7967 < Champion -3380)
+2026-11-01 08:21:44   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 08:21:44   Generation  820  bester  -2547  Schnitt  -5174  Schussweite 43 %  Decke 0 %  Treffer 26.7 HP  (33.6 s)  (Generation 819 auf den Prüfflügen -3876 < Champion -3380)
+2026-11-01 08:21:44   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 08:21:44   Generation  821  bester  -4315  Schnitt  -4857  Schussweite 43 %  Decke 0 %  Treffer 25.3 HP  (38.5 s)  (Generation 820 auf den Prüfflügen -6940 < Champion -3380)  (Generation 821 auf den Prüfflügen -6559 < Champion -3380)
+2026-11-01 08:21:44   WARNUNG W5 — Eine Strafe frisst alles: eingesteckte Treffer = 100 % aller Abzüge.
+2026-11-01 08:21:44   Zeit: Start 2026-11-01 08:15:40 · Ende 2026-11-01 08:21:44 UTC · Dauer 6.1 min · je Generation 34.1 s (30.7–38.5 s) · Belohnungs-Prüfung 23.5 s · 1128 Flüge à 1.19 s Rechenzeit · Kerne ausgelastet 99 %
+2026-11-01 08:21:44   Tresor: 101 Champions gesichert (github/heck)
+2026-11-01 08:21:44 — Runde 41: 10 Generationen × 24
+2026-11-01 08:22:07   Übung "heck": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 821 (Champion hatte -3380 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 08:22:07   Belohnungs-Prüfung: regel -7050 · nie -9116 · dauer -7194 · zufall -8028
+2026-11-01 08:22:07   ANGEHALTEN — H4 Belohnungs-Prüfung: dauer -7194 ≥ regel -7050 − 20 %
+2026-11-01 08:22:07   Tresor: 101 Champions gesichert (github/heck)
+2026-11-01 08:22:07 ANGEHALTEN durch den Trainer (Exit 2) — Ursache in den Zeilen darüber, Schleife endet.
+2026-11-01 08:22:07 Nacht-Schleife heck beendet nach 4.1 h, 41 Runden.
