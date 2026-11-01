@@ -1655,3 +1655,11 @@
 2026-11-01 08:22:07   Tresor: 101 Champions gesichert (github/heck)
 2026-11-01 08:22:07 ANGEHALTEN durch den Trainer (Exit 2) — Ursache in den Zeilen darüber, Schleife endet.
 2026-11-01 08:22:07 Nacht-Schleife heck beendet nach 4.1 h, 41 Runden.
+2026-11-01 09:19:06 Nacht-Schleife heck gestartet auf github: Block 10 Gen. · Volk 24 · höchstens 5 h
+2026-11-01 09:19:06 — Runde 1: 10 Generationen × 24
+2026-11-01 09:19:38   Übung "heck": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 821 (Champion hatte -3380 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 09:19:38   Belohnungs-Prüfung: regel -7050 · nie -9116 · dauer -7194 · zufall -8028
+2026-11-01 09:19:38   ANGEHALTEN — H4 Belohnungs-Prüfung: dauer -7194 ≥ regel -7050 − 20 %
+2026-11-01 09:19:38   Tresor: 101 Champions gesichert (github/heck)
+2026-11-01 09:19:38 ANGEHALTEN durch den Trainer (Exit 2) — Ursache in den Zeilen darüber, Schleife endet.
+2026-11-01 09:19:38 Nacht-Schleife heck beendet nach 0.0 h, 1 Runden.
