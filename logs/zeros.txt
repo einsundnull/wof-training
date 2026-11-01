@@ -2178,3 +2178,20 @@
 2026-11-01 09:48:28   Zeit: Start 2026-11-01 09:38:28 · Ende 2026-11-01 09:48:28 UTC · Dauer 10.0 min · je Generation 38.6 s (30.7–49.8 s) · Belohnungs-Prüfung 213.6 s · 2264 Flüge à 0.67 s Rechenzeit · Kerne ausgelastet 98 %
 2026-11-01 09:48:28   Tresor: 137 Champions gesichert (github/jaeger)
 2026-11-01 09:48:28 — Runde 4: 10 Generationen × 24
+2026-11-01 09:58:08   Übung "jaeger": 10 Generationen × 24 Piloten, 1 Flug + 11 für die besten 16, 4 Kerne, weiter ab Generation 1632 (Champion hatte -3261 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 09:58:08   Belohnungs-Prüfung (jetzige Stufe): regel -7316 · nichtstuer -8059 · feigling -10384 · versteck -13379 · wolke -8438 · dauerfeuer -9061 · kamikaze -7418 · zufall -8561
+2026-11-01 09:58:08   Belohnungs-Prüfung (End-Belohnung): regel -7316 · nichtstuer -8059 · feigling -10384 · versteck -13379 · wolke -8438 · dauerfeuer -9061 · kamikaze -7418 · zufall -8561
+2026-11-01 09:58:08   Start 2026-11-01 09:48:28 UTC · Belohnungs-Prüfung 217.4 s.
+2026-11-01 09:58:08   Generation 1633  bester  -3925  Schnitt  -5664  Schussweite 58 %  Decke 1 %  Treffer 199.8 HP  Phase 3 (Strafe 100 %)  (40.6 s)  neuer Champion -3261 (aus Generation 1632)
+2026-11-01 09:58:08   Generation 1634  bester  -4581  Schnitt  -8103  Schussweite 65 %  Decke 0 %  Treffer 242.8 HP  Phase 3 (Strafe 100 %)  (41.5 s)  (Generation 1633 auf den Prüfflügen -3998 < Champion -3261)
+2026-11-01 09:58:08   Generation 1635  bester  -4930  Schnitt  -7361  Schussweite 69 %  Decke 2 %  Treffer 259 HP  Phase 3 (Strafe 100 %)  (38.3 s)  (Generation 1634 auf den Prüfflügen -3998 < Champion -3261)
+2026-11-01 09:58:08   Generation 1636  bester  -4215  Schnitt  -7525  Schussweite 69 %  Decke 0 %  Treffer 275 HP  Phase 3 (Strafe 100 %)  (36.5 s)  (Generation 1635 auf den Prüfflügen -5106 < Champion -3261)
+2026-11-01 09:58:08   Generation 1637  bester  -4583  Schnitt  -5503  Schussweite 69 %  Decke 0 %  Treffer 243.1 HP  Phase 3 (Strafe 100 %)  (35.1 s)  (Generation 1636 auf den Prüfflügen -5169 < Champion -3261)
+2026-11-01 09:58:08   Generation 1638  bester  -4269  Schnitt  -5581  Schussweite 63 %  Decke 1 %  Treffer 201.9 HP  Phase 3 (Strafe 100 %)  (32.9 s)  (Generation 1637 auf den Prüfflügen -5023 < Champion -3261)
+2026-11-01 09:58:08   Generation 1639  bester  -3647  Schnitt  -7069  Schussweite 68 %  Decke 0 %  Treffer 276.1 HP  Phase 3 (Strafe 100 %)  (32.1 s)  (Generation 1638 auf den Prüfflügen -5566 < Champion -3261)
+2026-11-01 09:58:08   Generation 1640  bester  -3924  Schnitt  -5763  Schussweite 64 %  Decke 0 %  Treffer 218.1 HP  Phase 3 (Strafe 100 %)  (36.5 s)  (Generation 1639 auf den Prüfflügen -5169 < Champion -3261)
+2026-11-01 09:58:08   Generation 1641  bester  -5324  Schnitt  -5871  Schussweite 63 %  Decke 0 %  Treffer 250 HP  Phase 3 (Strafe 100 %)  (33.8 s)  (Generation 1640 auf den Prüfflügen -4873 < Champion -3261)
+2026-11-01 09:58:08   Generation 1642  bester  -4744  Schnitt  -7774  Schussweite 59 %  Decke 1 %  Treffer 238.8 HP  Phase 3 (Strafe 100 %)  (35.4 s)  (Generation 1642 auf den Prüfflügen -5526 < Champion -3261)
+2026-11-01 09:58:08   Zeit: Start 2026-11-01 09:48:28 · Ende 2026-11-01 09:58:08 UTC · Dauer 9.7 min · je Generation 36.3 s (32.1–41.5 s) · Belohnungs-Prüfung 217.4 s · 2240 Flüge à 0.64 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-01 09:58:08   Tresor: 138 Champions gesichert (github/jaeger)
+2026-11-01 09:58:08 — Runde 5: 10 Generationen × 24
