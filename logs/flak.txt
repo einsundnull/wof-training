@@ -418,3 +418,47 @@
 2026-11-01 01:43:22   Zeit: Start 2026-11-01 01:35:43 · Ende 2026-11-01 01:43:22 UTC · Dauer 7.7 min · je Generation 41.4 s (34.9–48.0 s) · Belohnungs-Prüfung 45.3 s · 1120 Flüge à 1.46 s Rechenzeit · Kerne ausgelastet 99 %
 2026-11-01 01:43:22   Tresor: 23 Champions gesichert (github/flak)
 2026-11-01 01:43:22 — Runde 20: 10 Generationen × 24
+2026-11-01 01:50:49   Übung "flak": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 220 (Champion hatte 540 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 01:50:49   Belohnungs-Prüfung: regel -991 · nie -5063 · zufall -1001 · kurz -3306 · lang -1934 · frueh -5563 · spaet -5091
+2026-11-01 01:50:49   Start 2026-11-01 01:43:22 UTC · Belohnungs-Prüfung 44.5 s.
+2026-11-01 01:50:49   Generation  221  bester    258  Schnitt    619  Schussweite 41 %  Decke 0 %  Treffer 7.8 HP  (41.8 s)  neuer Champion 540 (aus Generation 220)
+2026-11-01 01:50:49   Generation  222  bester    454  Schnitt   -480  Schussweite 37 %  Decke 0 %  Treffer 7.3 HP  (40.0 s)  (Generation 221 auf den Prüfflügen 224 < Champion 540)
+2026-11-01 01:50:49   Generation  223  bester    248  Schnitt   -136  Schussweite 42 %  Decke 0 %  Treffer 7.8 HP  (35.2 s)  (Generation 222 auf den Prüfflügen 359 < Champion 540)
+2026-11-01 01:50:49   Generation  224  bester    355  Schnitt    788  Schussweite 45 %  Decke 0 %  Treffer 7.7 HP  (37.2 s)  (Generation 223 auf den Prüfflügen 488 < Champion 540)
+2026-11-01 01:50:49   Generation  225  bester    273  Schnitt   -139  Schussweite 40 %  Decke 0 %  Treffer 8.2 HP  (41.1 s)  (Generation 224 auf den Prüfflügen 71 < Champion 540)
+2026-11-01 01:50:49   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:50:49   Generation  226  bester    600  Schnitt    423  Schussweite 51 %  Decke 0 %  Treffer 7.7 HP  (37.5 s)  (Generation 225 auf den Prüfflügen 275 < Champion 540)
+2026-11-01 01:50:49   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:50:49   Generation  227  bester    208  Schnitt   -396  Schussweite 38 %  Decke 0 %  Treffer 7.7 HP  (43.1 s)  (Generation 226 auf den Prüfflügen 94 < Champion 540)
+2026-11-01 01:50:49   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:50:49   Generation  228  bester    587  Schnitt    226  Schussweite 42 %  Decke 0 %  Treffer 8.7 HP  (38.0 s)  (Generation 227 auf den Prüfflügen 396 < Champion 540)
+2026-11-01 01:50:49   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:50:49   Generation  229  bester    293  Schnitt     55  Schussweite 32 %  Decke 0 %  Treffer 8.2 HP  (43.6 s)  (Generation 228 auf den Prüfflügen 396 < Champion 540)
+2026-11-01 01:50:49   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:50:49   Generation  230  bester    276  Schnitt   -499  Schussweite 46 %  Decke 0 %  Treffer 8 HP  (45.2 s)  (Generation 229 auf den Prüfflügen 394 < Champion 540)  (Generation 230 auf den Prüfflügen 394 < Champion 540)
+2026-11-01 01:50:49   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:50:49   Zeit: Start 2026-11-01 01:43:22 · Ende 2026-11-01 01:50:49 UTC · Dauer 7.5 min · je Generation 40.3 s (35.2–45.2 s) · Belohnungs-Prüfung 44.5 s · 1128 Flüge à 1.41 s Rechenzeit · Kerne ausgelastet 99 %
+2026-11-01 01:50:49   Tresor: 24 Champions gesichert (github/flak)
+2026-11-01 01:50:49 — Runde 21: 10 Generationen × 24
+2026-11-01 01:58:13   Übung "flak": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 230 (Champion hatte 540 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 01:58:13   Belohnungs-Prüfung: regel -991 · nie -5063 · zufall -1001 · kurz -3306 · lang -1934 · frueh -5563 · spaet -5091
+2026-11-01 01:58:13   Start 2026-11-01 01:50:49 UTC · Belohnungs-Prüfung 44.4 s.
+2026-11-01 01:58:13   Generation  231  bester    206  Schnitt    224  Schussweite 36 %  Decke 0 %  Treffer 7.7 HP  (49.4 s)  neuer Champion 540 (aus Generation 230)
+2026-11-01 01:58:13   Generation  232  bester    197  Schnitt    141  Schussweite 38 %  Decke 0 %  Treffer 7.3 HP  (36.2 s)  (Generation 231 auf den Prüfflügen 395 < Champion 540)
+2026-11-01 01:58:13   Generation  233  bester     84  Schnitt   -477  Schussweite 39 %  Decke 0 %  Treffer 7.8 HP  (39.6 s)  (Generation 232 auf den Prüfflügen 63 < Champion 540)
+2026-11-01 01:58:13   Generation  234  bester    268  Schnitt   -289  Schussweite 53 %  Decke 0 %  Treffer 7.2 HP  (36.0 s)  (Generation 233 auf den Prüfflügen 67 < Champion 540)
+2026-11-01 01:58:13   Generation  235  bester    314  Schnitt    698  Schussweite 47 %  Decke 0 %  Treffer 7.8 HP  (39.2 s)  (Generation 234 auf den Prüfflügen -38 < Champion 540)
+2026-11-01 01:58:13   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:58:13   Generation  236  bester    342  Schnitt    -21  Schussweite 40 %  Decke 0 %  Treffer 7 HP  (37.6 s)  (Generation 235 auf den Prüfflügen 228 < Champion 540)
+2026-11-01 01:58:13   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:58:13   Generation  237  bester     -7  Schnitt   -275  Schussweite 42 %  Decke 0 %  Treffer 7.8 HP  (41.4 s)  (Generation 236 auf den Prüfflügen 176 < Champion 540)
+2026-11-01 01:58:13   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:58:13   Generation  238  bester    161  Schnitt   -519  Schussweite 50 %  Decke 0 %  Treffer 7.7 HP  (37.0 s)  (Generation 237 auf den Prüfflügen 275 < Champion 540)
+2026-11-01 01:58:13   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:58:13   Generation  239  bester    583  Schnitt    170  Schussweite 45 %  Decke 0 %  Treffer 8.2 HP  (37.2 s)  (Generation 238 auf den Prüfflügen 188 < Champion 540)
+2026-11-01 01:58:13   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:58:13   Generation  240  bester    424  Schnitt    173  Schussweite 41 %  Decke 0 %  Treffer 9 HP  (45.5 s)  (Generation 239 auf den Prüfflügen 4 < Champion 540)  (Generation 240 auf den Prüfflügen 252 < Champion 540)
+2026-11-01 01:58:13   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 01:58:13   Zeit: Start 2026-11-01 01:50:49 · Ende 2026-11-01 01:58:13 UTC · Dauer 7.4 min · je Generation 39.9 s (36.0–49.4 s) · Belohnungs-Prüfung 44.4 s · 1128 Flüge à 1.40 s Rechenzeit · Kerne ausgelastet 99 %
+2026-11-01 01:58:13   Tresor: 25 Champions gesichert (github/flak)
+2026-11-01 01:58:13 — Runde 22: 10 Generationen × 24
