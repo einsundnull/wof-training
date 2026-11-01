@@ -325,3 +325,5 @@
 2026-11-01 09:57:25   Zeit: Start 2026-11-01 09:36:45 · Ende 2026-11-01 09:57:25 UTC · Dauer 20.7 min · je Generation 114.8 s (105.3–130.6 s) · Belohnungs-Prüfung 91.5 s · 1128 Flüge à 3.98 s Rechenzeit · Kerne ausgelastet 98 %
 2026-11-01 09:57:25   Tresor: 26 Champions gesichert (github/fahrzeug)
 2026-11-01 09:57:25 Nacht-Schleife fahrzeug beendet nach 4.8 h, 15 Runden.
+2026-11-01 09:57:51 Nacht-Schleife fahrzeug gestartet auf github: Block 10 Gen. · Volk 24 · höchstens 5 h
+2026-11-01 09:57:51 — Runde 1: 10 Generationen × 24
