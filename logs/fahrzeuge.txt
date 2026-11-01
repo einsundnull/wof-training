@@ -826,3 +826,25 @@
 2026-11-01 16:09:18   Zeit: Start 2026-11-01 15:49:32 · Ende 2026-11-01 16:09:18 UTC · Dauer 19.8 min · je Generation 109.9 s (91.0–120.9 s) · Belohnungs-Prüfung 86.9 s · 1128 Flüge à 3.82 s Rechenzeit · Kerne ausgelastet 98 %
 2026-11-01 16:09:18   Tresor: 54 Champions gesichert (github/fahrzeug)
 2026-11-01 16:09:18 — Runde 5: 10 Generationen × 24
+2026-11-01 16:29:44   Übung "fahrzeug": 10 Generationen × 24 Piloten, 1 Flug + 5 für die besten 16, 4 Kerne, weiter ab Generation 380 (Champion hatte 14320 Punkte auf den Prüfflügen, wird neu geprüft)
+2026-11-01 16:29:44   Belohnungs-Prüfung: regel 10114 · nie -150 · zufall 5739 · kurz 7375 · lang 7507
+2026-11-01 16:29:44   Start 2026-11-01 16:09:18 UTC · Belohnungs-Prüfung 88.2 s.
+2026-11-01 16:29:44   Generation  381  bester  13462  Schnitt  11433  Schussweite 2305 %  Decke 0 %  Treffer 242.8 HP  (122.7 s)  neuer Champion 14320 (aus Generation 380)
+2026-11-01 16:29:44   Generation  382  bester  12535  Schnitt  11919  Schussweite 2203 %  Decke 0 %  Treffer 224.7 HP  (105.6 s)  (Generation 381 auf den Prüfflügen 11984 < Champion 14320)
+2026-11-01 16:29:44   Generation  383  bester  12855  Schnitt  10045  Schussweite 2085 %  Decke 0 %  Treffer 228.2 HP  (104.1 s)  (Generation 382 auf den Prüfflügen 11552 < Champion 14320)
+2026-11-01 16:29:44   Generation  384  bester  12802  Schnitt  10936  Schussweite 2194 %  Decke 0 %  Treffer 229.3 HP  (106.2 s)  (Generation 383 auf den Prüfflügen 10873 < Champion 14320)
+2026-11-01 16:29:44   Generation  385  bester  13076  Schnitt  12536  Schussweite 2463 %  Decke 0 %  Treffer 229.7 HP  (116.9 s)  (Generation 384 auf den Prüfflügen 11536 < Champion 14320)
+2026-11-01 16:29:44   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 16:29:44   Generation  386  bester  13856  Schnitt  12565  Schussweite 2150 %  Decke 0 %  Treffer 246.8 HP  (124.6 s)  (Generation 385 auf den Prüfflügen 10912 < Champion 14320)
+2026-11-01 16:29:44   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 16:29:44   Generation  387  bester  13243  Schnitt   8929  Schussweite 2351 %  Decke 0 %  Treffer 239.7 HP  (105.5 s)  (Generation 386 auf den Prüfflügen 12540 < Champion 14320)
+2026-11-01 16:29:44   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 16:29:44   Generation  388  bester  12858  Schnitt  10447  Schussweite 2279 %  Decke 0 %  Treffer 225.7 HP  (120.9 s)  (Generation 387 auf den Prüfflügen 11446 < Champion 14320)
+2026-11-01 16:29:44   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 16:29:44   Generation  389  bester  12912  Schnitt  11559  Schussweite 2224 %  Decke 0 %  Treffer 233.7 HP  (108.5 s)
+2026-11-01 16:29:44   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 16:29:44   Generation  390  bester  12563  Schnitt  10039  Schussweite 2399 %  Decke 0 %  Treffer 226.8 HP  (122.9 s)  (Generation 389 auf den Prüfflügen 11948 < Champion 14320)  (Generation 390 auf den Prüfflügen 11962 < Champion 14320)
+2026-11-01 16:29:44   WARNUNG W5 — Eine Strafe frisst alles: Verluste = 100 % aller Abzüge.
+2026-11-01 16:29:44   Zeit: Start 2026-11-01 16:09:18 · Ende 2026-11-01 16:29:44 UTC · Dauer 20.4 min · je Generation 113.8 s (104.1–124.6 s) · Belohnungs-Prüfung 88.2 s · 1120 Flüge à 3.99 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-01 16:29:44   Tresor: 55 Champions gesichert (github/fahrzeug)
+2026-11-01 16:29:44 — Runde 6: 10 Generationen × 24
