@@ -1872,3 +1872,12 @@
 2026-11-01 04:16:43   WARNUNG W4 — de: gegen die Regel -116, bester 84 (Gen. 2153)
 2026-11-01 04:16:46   Duell (Sicht Deutsche): -208 · Punkte -208 · Feind-Tote 9.3 · eigene Tote 14.1 · Rückzug 0 % · Siege 6 % · Niederlagen 88 % · ohne Kampf 0 %
 2026-11-01 04:16:46 — Runde 202: Deutsche trainieren, Block 4: 10 Generationen × 24
+2026-11-01 04:17:58   Belohnungs-Prüfung: regel -49 · stuermer -4 · flieher -127 · zoegerer 84 · zufall -16
+2026-11-01 04:17:58   Start 2026-11-01 04:16:46 UTC · Belohnungs-Prüfung 9.5 s.
+2026-11-01 04:17:58   Generation 3155  bester    -43  Schnitt   -305  Schussweite 1578 %  Decke 0 %  Treffer 14.3 HP  (9.8 s)  neuer Champion -86 (aus Generation 3154)
+2026-11-01 04:17:58   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-01 04:17:58   Zeit: Start 2026-11-01 04:16:46 · Ende 2026-11-01 04:17:58 UTC · Dauer 1.2 min · je Generation 6.2 s (5.2–9.8 s) · Belohnungs-Prüfung 9.5 s · 1216 Flüge à 0.20 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-01 04:18:02   Deutsche gegen Regel: Punkte -116 · Feind-Tote 12.9 · eigene Tote 14.9 · Rückzug 0 % · Siege 6 % · Niederlagen 75 % · ohne Kampf 0 %
+2026-11-01 04:18:02   WARNUNG W4 — de: gegen die Regel -116, bester 84 (Gen. 2153)
+2026-11-01 04:18:05   Duell (Sicht Deutsche): -208 · Punkte -208 · Feind-Tote 9.3 · eigene Tote 14.1 · Rückzug 0 % · Siege 6 % · Niederlagen 88 % · ohne Kampf 0 %
+2026-11-01 04:18:05 Duell-Training beendet nach 5.0 h. Beste gegen die Regel: Deutsche Gen. 2153, 84 · Amerikaner Gen. 1494, 218
