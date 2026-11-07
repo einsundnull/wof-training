@@ -6140,3 +6140,5 @@
 2026-11-07 23:28:56   WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
 2026-11-07 23:28:56   Zeit: Start 2026-11-07 23:27:23 · Ende 2026-11-07 23:28:56 UTC · Dauer 1.5 min · je Generation 3.5 s (2.9–5.7 s) · Belohnungs-Prüfung 22.2 s · 4408 Flüge à 0.06 s Rechenzeit · Kerne ausgelastet 98 %
 2026-11-07 23:28:56   Camel gegen die Regel: Punkte 7836 · Treffer 9.3 · Abschüsse 2.00 · verloren 1.67 · Abstürze 0.50 · Abrisse 1.17 · Zusammenstöße 0.13 · Siege 79 % · Niederlagen 21 % · Dauer 14 s
+2026-11-07 23:28:57   Duell (Sicht Camel, gegen den Maßstab): 1812 · Punkte -359 · Treffer 6.9 · Abschüsse 0.92 · verloren 2.17 · Abstürze 0.08 · Abrisse 0.33 · Zusammenstöße 0.13 · Siege 50 % · Niederlagen 42 % · Dauer 27 s
+2026-11-07 23:28:57   WECHSEL: überholt → jetzt trainiert Dr.I
