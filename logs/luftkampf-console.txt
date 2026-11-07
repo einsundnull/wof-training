@@ -25,3 +25,16 @@
 2026-11-07 06:08:36   ANGEHALTEN — H4 Belohnungs-Prüfung: Zufall (lenkt wild) -1479 müsste unter Regel-Zero -2975 liegen
 2026-11-07 06:08:36 ANGEHALTEN durch den Trainer (Exit 2): Ursache in den Zeilen darüber.
 2026-11-07 06:08:36 Luftkampf beendet nach 0.1 h, 2 Runden. Beste gegen die Regel: Dr.I Gen. 0, -189 · Camel Gen. 14, 5338
+2026-11-07 06:09:11 Luftkampf 3 gegen 3 gestartet: Block 20 Gen. · Volk 24 · höchstens 5 h
+2026-11-07 06:09:14 Regel gegen Regel (Sicht Dr.I): -189 — Maßstab für „überholt“
+2026-11-07 06:09:16   Dr.I gegen die Regel: Punkte -189 · Treffer 5.2 · Abschüsse 1.00 · verloren 2.25 · Abstürze 0.83 · Abrisse 1.42 · Zusammenstöße 0.08 · Siege 50 % · Niederlagen 50 % · Dauer 19 s
+2026-11-07 06:09:17   Camel gegen die Regel: Punkte 5338 · Treffer 7.6 · Abschüsse 1.63 · verloren 1.92 · Abstürze 0.88 · Abrisse 2.21 · Zusammenstöße 0.08 · Siege 67 % · Niederlagen 33 % · Dauer 20 s
+2026-11-07 06:09:19 Duell Dr.I gegen Camel: Punkte -2755 · Treffer 4.8 · Abschüsse 0.75 · verloren 2.58 · Abstürze 0.79 · Abrisse 1.33 · Zusammenstöße 0.08 · Siege 33 % · Niederlagen 67 % · Dauer 20 s · gegen den Maßstab -2566
+2026-11-07 06:09:19 → trainiert: Dr.I
+2026-11-07 06:09:19 — Runde 1: Dr.I trainiert, Block 1: 20 Generationen × 24
+2026-11-07 06:10:12   Lehrplan: Phase 1, Strafe für Treffer/Verluste 20 %, Hilfspunkte 100 %.
+2026-11-07 06:10:12   Belohnungs-Prüfung (jetzige Stufe): regel 1860 · nichtstuer -7898 · feigling -5862 · versteck -5440 · wolke -7898 · dauerfeuer 795 · kamikaze 2761 · zufall 1772
+2026-11-07 06:10:12   Belohnungs-Prüfung (End-Belohnung): regel -2975 · nichtstuer -10534 · feigling -10963 · versteck -10123 · wolke -10534 · dauerfeuer -3948 · kamikaze -2008 · zufall -1479
+2026-11-07 06:10:12   ANGEHALTEN — H4 Belohnungs-Prüfung: Zufall (lenkt wild) -1479 müsste unter Regel-Zero -2975 liegen
+2026-11-07 06:10:12 ANGEHALTEN durch den Trainer (Exit 2): Ursache in den Zeilen darüber.
+2026-11-07 06:10:12 Luftkampf beendet nach 0.0 h, 1 Runden. Beste gegen die Regel: Dr.I Gen. 0, -189 · Camel Gen. 14, 5338
