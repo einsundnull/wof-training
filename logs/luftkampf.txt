@@ -3445,3 +3445,90 @@
 2026-11-07 16:59:05   Camel gegen die Regel: Punkte 3164 · Treffer 8.1 · Abschüsse 1.54 · verloren 2.17 · Abstürze 0.71 · Abrisse 1.58 · Zusammenstöße 0.04 · Siege 46 % · Niederlagen 54 % · Dauer 13 s
 2026-11-07 16:59:06   Duell (Sicht Camel, gegen den Maßstab): -1543 · Punkte 2996 · Treffer 7.5 · Abschüsse 1.42 · verloren 2.17 · Abstürze 0.29 · Abrisse 0.42 · Zusammenstöße 0.13 · Siege 46 % · Niederlagen 54 % · Dauer 17 s
 2026-11-07 16:59:06 — Runde 110: Camel trainiert, Block 4: 20 Generationen × 24
+2026-11-07 17:01:36   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 17:01:36   Belohnungs-Prüfung (jetzige Stufe): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:01:36   Belohnungs-Prüfung (End-Belohnung): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:01:36   Start 2026-11-07 16:59:06 UTC · Belohnungs-Prüfung 36.2 s.
+2026-11-07 17:01:36   Generation 1481  bester   6226  Schnitt   2677  Schussweite 74 %  Decke 0 %  Treffer 8.7 HP  Phase 3 (Strafe 100 %)  (8.0 s)  neuer Champion 4908 (aus Generation 1480)
+2026-11-07 17:01:36   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 17:01:36   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 17:01:36   WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+2026-11-07 17:01:36   WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+2026-11-07 17:01:36   WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+2026-11-07 17:01:36   WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+2026-11-07 17:01:36   Zeit: Start 2026-11-07 16:59:06 · Ende 2026-11-07 17:01:36 UTC · Dauer 2.5 min · je Generation 5.7 s (4.9–8.0 s) · Belohnungs-Prüfung 36.2 s · 4408 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 17:01:37   Camel gegen die Regel: Punkte 3164 · Treffer 8.1 · Abschüsse 1.54 · verloren 2.17 · Abstürze 0.71 · Abrisse 1.58 · Zusammenstöße 0.04 · Siege 46 % · Niederlagen 54 % · Dauer 13 s
+2026-11-07 17:01:38   Duell (Sicht Camel, gegen den Maßstab): -1543 · Punkte 2996 · Treffer 7.5 · Abschüsse 1.42 · verloren 2.17 · Abstürze 0.29 · Abrisse 0.42 · Zusammenstöße 0.13 · Siege 46 % · Niederlagen 54 % · Dauer 17 s
+2026-11-07 17:01:38 — Runde 111: Camel trainiert, Block 5: 20 Generationen × 24
+2026-11-07 17:04:06   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 17:04:06   Belohnungs-Prüfung (jetzige Stufe): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:04:06   Belohnungs-Prüfung (End-Belohnung): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:04:06   Start 2026-11-07 17:01:38 UTC · Belohnungs-Prüfung 35.6 s.
+2026-11-07 17:04:06   Generation 1501  bester   7420  Schnitt   5717  Schussweite 68 %  Decke 0 %  Treffer 9.4 HP  Phase 3 (Strafe 100 %)  (8.1 s)  neuer Champion 4908 (aus Generation 1500)
+2026-11-07 17:04:06   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 17:04:06   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 17:04:06   WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+2026-11-07 17:04:06   WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+2026-11-07 17:04:06   WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+2026-11-07 17:04:06   WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+2026-11-07 17:04:06   Zeit: Start 2026-11-07 17:01:38 · Ende 2026-11-07 17:04:06 UTC · Dauer 2.5 min · je Generation 5.6 s (4.6–8.1 s) · Belohnungs-Prüfung 35.6 s · 4408 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 17:04:07   Camel gegen die Regel: Punkte 3164 · Treffer 8.1 · Abschüsse 1.54 · verloren 2.17 · Abstürze 0.71 · Abrisse 1.58 · Zusammenstöße 0.04 · Siege 46 % · Niederlagen 54 % · Dauer 13 s
+2026-11-07 17:04:08   Duell (Sicht Camel, gegen den Maßstab): -1543 · Punkte 2996 · Treffer 7.5 · Abschüsse 1.42 · verloren 2.17 · Abstürze 0.29 · Abrisse 0.42 · Zusammenstöße 0.13 · Siege 46 % · Niederlagen 54 % · Dauer 17 s
+2026-11-07 17:04:08   WECHSEL: 5 Blöcke ohne Überholen → jetzt trainiert Dr.I
+2026-11-07 17:04:08 — Runde 112: Dr.I trainiert, Block 1: 20 Generationen × 24
+2026-11-07 17:06:31   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 17:06:31   Belohnungs-Prüfung (jetzige Stufe): regel 2978 · nichtstuer -9808 · feigling -10311 · versteck -8899 · wolke -9808 · dauerfeuer -3409 · kamikaze 1985 · zufall -24687
+2026-11-07 17:06:31   Belohnungs-Prüfung (End-Belohnung): regel 2978 · nichtstuer -9808 · feigling -10311 · versteck -8899 · wolke -9808 · dauerfeuer -3409 · kamikaze 1985 · zufall -24687
+2026-11-07 17:06:31   Start 2026-11-07 17:04:09 UTC · Belohnungs-Prüfung 35.0 s.
+2026-11-07 17:06:31   Generation 3182  bester   3455  Schnitt    479  Schussweite 57 %  Decke 0 %  Treffer 6.9 HP  Phase 3 (Strafe 100 %)  (8.3 s)  neuer Champion 4868 (aus Generation 3181)
+2026-11-07 17:06:31   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 17:06:31   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-07 17:06:31   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 17:06:31   WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+2026-11-07 17:06:31   WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+2026-11-07 17:06:31   WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+2026-11-07 17:06:31   WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+2026-11-07 17:06:31   Zeit: Start 2026-11-07 17:04:09 · Ende 2026-11-07 17:06:31 UTC · Dauer 2.4 min · je Generation 5.4 s (4.3–8.3 s) · Belohnungs-Prüfung 35.0 s · 4480 Flüge à 0.09 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 17:06:32   Dr.I gegen die Regel: Punkte 4256 · Treffer 7.9 · Abschüsse 1.46 · verloren 1.83 · Abstürze 0.33 · Abrisse 0.92 · Zusammenstöße 0.08 · Siege 58 % · Niederlagen 42 % · Dauer 16 s
+2026-11-07 17:06:33   Duell (Sicht Dr.I, gegen den Maßstab): 1543 · Punkte 2996 · Treffer 7.5 · Abschüsse 1.42 · verloren 2.17 · Abstürze 0.29 · Abrisse 0.42 · Zusammenstöße 0.13 · Siege 46 % · Niederlagen 54 % · Dauer 17 s
+2026-11-07 17:06:33   WECHSEL: überholt → jetzt trainiert Camel
+2026-11-07 17:06:34   RÜCKGRIFF Camel: gegen die Regel 3164, Bester 7615 (Gen. 479)
+2026-11-07 17:06:34 — Runde 113: Camel trainiert, Block 1: 20 Generationen × 24
+2026-11-07 17:09:05   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 17:09:05   Belohnungs-Prüfung (jetzige Stufe): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:09:05   Belohnungs-Prüfung (End-Belohnung): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:09:05   Start 2026-11-07 17:06:34 UTC · Belohnungs-Prüfung 36.2 s.
+2026-11-07 17:09:05   Generation 1521  bester   5600  Schnitt  -3520  Schussweite 65 %  Decke 0 %  Treffer 7.9 HP  Phase 3 (Strafe 100 %)  (8.3 s)  neuer Champion 3454 (aus Generation 1520)
+2026-11-07 17:09:05   Generation 1526  bester   5371  Schnitt  -6110  Schussweite 69 %  Decke 0 %  Treffer 8.6 HP  Phase 3 (Strafe 100 %)  (5.7 s)  neuer Champion 5010 (aus Generation 1525)
+2026-11-07 17:09:05   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 17:09:05   Zeit: Start 2026-11-07 17:06:34 · Ende 2026-11-07 17:09:05 UTC · Dauer 2.5 min · je Generation 5.7 s (5.1–8.3 s) · Belohnungs-Prüfung 36.2 s · 4432 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 17:09:05   Camel gegen die Regel: Punkte 4390 · Treffer 8.1 · Abschüsse 1.50 · verloren 1.71 · Abstürze 0.33 · Abrisse 1.08 · Zusammenstöße 0.17 · Siege 71 % · Niederlagen 29 % · Dauer 14 s
+2026-11-07 17:09:06   Duell (Sicht Camel, gegen den Maßstab): -999 · Punkte 2452 · Treffer 7.8 · Abschüsse 1.33 · verloren 2.33 · Abstürze 0.29 · Abrisse 0.54 · Zusammenstöße 0.00 · Siege 42 % · Niederlagen 58 % · Dauer 16 s
+2026-11-07 17:09:06 — Runde 114: Camel trainiert, Block 2: 20 Generationen × 24
+2026-11-07 17:11:34   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 17:11:34   Belohnungs-Prüfung (jetzige Stufe): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:11:34   Belohnungs-Prüfung (End-Belohnung): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:11:34   Start 2026-11-07 17:09:06 UTC · Belohnungs-Prüfung 36.4 s.
+2026-11-07 17:11:34   Generation 1541  bester   4007  Schnitt  -1797  Schussweite 66 %  Decke 0 %  Treffer 8.3 HP  Phase 3 (Strafe 100 %)  (8.0 s)  neuer Champion 5010 (aus Generation 1540)
+2026-11-07 17:11:34   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 17:11:34   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 17:11:34   WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+2026-11-07 17:11:34   WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+2026-11-07 17:11:34   WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+2026-11-07 17:11:34   WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+2026-11-07 17:11:34   Zeit: Start 2026-11-07 17:09:06 · Ende 2026-11-07 17:11:34 UTC · Dauer 2.5 min · je Generation 5.6 s (4.9–8.0 s) · Belohnungs-Prüfung 36.4 s · 4432 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 17:11:35   Camel gegen die Regel: Punkte 4390 · Treffer 8.1 · Abschüsse 1.50 · verloren 1.71 · Abstürze 0.33 · Abrisse 1.08 · Zusammenstöße 0.17 · Siege 71 % · Niederlagen 29 % · Dauer 14 s
+2026-11-07 17:11:36   Duell (Sicht Camel, gegen den Maßstab): -999 · Punkte 2452 · Treffer 7.8 · Abschüsse 1.33 · verloren 2.33 · Abstürze 0.29 · Abrisse 0.54 · Zusammenstöße 0.00 · Siege 42 % · Niederlagen 58 % · Dauer 16 s
+2026-11-07 17:11:36 — Runde 115: Camel trainiert, Block 3: 20 Generationen × 24
+2026-11-07 17:14:07   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 17:14:07   Belohnungs-Prüfung (jetzige Stufe): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:14:07   Belohnungs-Prüfung (End-Belohnung): regel 428 · nichtstuer -7823 · feigling -11804 · versteck -9604 · wolke -7823 · dauerfeuer -3850 · kamikaze 3917 · zufall -54433
+2026-11-07 17:14:07   Start 2026-11-07 17:11:36 UTC · Belohnungs-Prüfung 35.9 s.
+2026-11-07 17:14:07   Generation 1561  bester   5745  Schnitt   3387  Schussweite 75 %  Decke 0 %  Treffer 8.8 HP  Phase 3 (Strafe 100 %)  (8.1 s)  neuer Champion 5010 (aus Generation 1560)
+2026-11-07 17:14:07   Generation 1562  bester   5221  Schnitt    391  Schussweite 63 %  Decke 0 %  Treffer 8.8 HP  Phase 3 (Strafe 100 %)  (5.9 s)  neuer Champion 5629 (aus Generation 1561)
+2026-11-07 17:14:07   Generation 1566  bester   6445  Schnitt  -3570  Schussweite 62 %  Decke 0 %  Treffer 8.7 HP  Phase 3 (Strafe 100 %)  (5.1 s)  neuer Champion 6831 (aus Generation 1565)
+2026-11-07 17:14:07   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 17:14:07   Zeit: Start 2026-11-07 17:11:36 · Ende 2026-11-07 17:14:07 UTC · Dauer 2.5 min · je Generation 5.7 s (4.9–8.1 s) · Belohnungs-Prüfung 35.9 s · 4456 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 17:14:07   Camel gegen die Regel: Punkte 3068 · Treffer 8.1 · Abschüsse 1.58 · verloren 2.21 · Abstürze 0.50 · Abrisse 1.17 · Zusammenstöße 0.21 · Siege 50 % · Niederlagen 50 % · Dauer 15 s
+2026-11-07 17:14:08   Duell (Sicht Camel, gegen den Maßstab): -283 · Punkte 1735 · Treffer 6.8 · Abschüsse 1.17 · verloren 2.21 · Abstürze 0.04 · Abrisse 0.33 · Zusammenstöße 0.04 · Siege 50 % · Niederlagen 50 % · Dauer 18 s
+2026-11-07 17:14:08 — Runde 116: Camel trainiert, Block 4: 20 Generationen × 24
