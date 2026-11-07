@@ -5,7 +5,8 @@
   "world": {
     "gameSpeed": 1.05,
     "gravity": 260,
-    "maxAlt": 1500
+    "maxAlt": 1500,
+    "hardStall": 1
   },
   "level": {
     "islandWidth": 3700,

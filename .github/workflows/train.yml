@@ -34,7 +34,7 @@ on:
         description: 'follow-up runs started automatically afterwards'
         default: '0'
       only:
-        description: 'nacht: only this job (generaele, flak, heck, zeros, fahrzeuge); empty = the first four (fahrzeuge runs only as its own chain, so no two runs write vehicle-brains.json)'
+        description: 'nacht: only this job (generaele, flak, heck, zeros, fahrzeuge, luftkampf); empty = the first four (fahrzeuge and luftkampf run only as their own chain, so no two runs write the same file)'
         default: ''
 permissions:
   contents: write
@@ -61,15 +61,17 @@ jobs:
             cmd: node tools/fach-night.mjs jaeger 10 24 HOURS
           - name: fahrzeuge
             cmd: node tools/fach-night.mjs fahrzeug 10 24 HOURS
+          - name: luftkampf
+            cmd: node tools/lk-duel.mjs 20 24 HOURS
     steps:
       - uses: actions/checkout@v4
-        if: (inputs.only == '' && matrix.name != 'fahrzeuge') || inputs.only == matrix.name
+        if: (inputs.only == '' && matrix.name != 'fahrzeuge' && matrix.name != 'luftkampf') || inputs.only == matrix.name
       - uses: actions/setup-node@v4
-        if: (inputs.only == '' && matrix.name != 'fahrzeuge') || inputs.only == matrix.name
+        if: (inputs.only == '' && matrix.name != 'fahrzeuge' && matrix.name != 'luftkampf') || inputs.only == matrix.name
         with:
           node-version: '22'
       - name: train ${{ matrix.name }}
-        if: (inputs.only == '' && matrix.name != 'fahrzeuge') || inputs.only == matrix.name
+        if: (inputs.only == '' && matrix.name != 'fahrzeuge' && matrix.name != 'luftkampf') || inputs.only == matrix.name
         env:
           WOF_HOST: github
           WOF_NO_PUSH: '1'
