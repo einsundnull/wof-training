@@ -1,0 +1,27 @@
+2026-11-07 06:05:13 Luftkampf 3 gegen 3 gestartet: Block 20 Gen. · Volk 24 · höchstens 5 h
+2026-11-07 06:05:15 Regel gegen Regel (Sicht Dr.I): -189 — Maßstab für „überholt“
+2026-11-07 06:05:16   Dr.I gegen die Regel: Punkte -189 · Treffer 5.2 · Abschüsse 1.00 · verloren 2.25 · Abstürze 0.83 · Abrisse 1.42 · Zusammenstöße 0.08 · Siege 50 % · Niederlagen 50 % · Dauer 19 s
+2026-11-07 06:05:17   Camel gegen die Regel: Punkte 1822 · Treffer 6.8 · Abschüsse 1.21 · verloren 2.08 · Abstürze 0.71 · Abrisse 2.21 · Zusammenstöße 0.17 · Siege 50 % · Niederlagen 50 % · Dauer 19 s
+2026-11-07 06:05:18 Duell Dr.I gegen Camel: Punkte -189 · Treffer 5.2 · Abschüsse 1.00 · verloren 2.25 · Abstürze 0.83 · Abrisse 1.42 · Zusammenstöße 0.08 · Siege 50 % · Niederlagen 50 % · Dauer 19 s · gegen den Maßstab 0
+2026-11-07 06:05:18 → trainiert: Camel
+2026-11-07 06:05:18 — Runde 1: Camel trainiert, Block 1: 20 Generationen × 24
+2026-11-07 06:07:56   Lehrplan: Phase 1, Strafe für Treffer/Verluste 20 %, Hilfspunkte 100 %.
+2026-11-07 06:07:56   Belohnungs-Prüfung (jetzige Stufe): regel 5701 · nichtstuer -2428 · feigling -7238 · versteck -5646 · wolke -2428 · dauerfeuer 4774 · kamikaze 7984 · zufall -240
+2026-11-07 06:07:56   Belohnungs-Prüfung (End-Belohnung): regel 1822 · nichtstuer -8235 · feigling -13095 · versteck -9362 · wolke -8235 · dauerfeuer 453 · kamikaze 3311 · zufall -3509
+2026-11-07 06:07:56   Start 2026-11-07 06:05:18 UTC · Belohnungs-Prüfung 30.8 s.
+2026-11-07 06:07:56   Generation    1  bester   7989  Schnitt  13079  Schussweite 77 %  Decke 3 %  Treffer 7.9 HP  Phase 1 (Strafe 20 %)  (9.7 s)  neuer Champion 1822 (aus Generation 0)
+2026-11-07 06:07:56   Generation    3  bester   7657  Schnitt   3198  Schussweite 77 %  Decke 3 %  Treffer 7.4 HP  Phase 1 (Strafe 20 %)  (6.5 s)  neuer Champion 2137 (aus Generation 2)  Lehrplan: Phase "Überleben" beginnt (3 Generationen so oft in Schussweite wie die Regel-Zero).
+2026-11-07 06:07:56   Generation    6  bester  12056  Schnitt   3211  Schussweite 76 %  Decke 3 %  Treffer 8.4 HP  Phase 2 (Strafe 30 %)  (6.1 s)  neuer Champion 3404 (aus Generation 5)
+2026-11-07 06:07:56   Generation   15  bester   9662  Schnitt   4256  Schussweite 75 %  Decke 3 %  Treffer 8.4 HP  Phase 2 (Strafe 75 %)  (6.4 s)  neuer Champion 5338 (aus Generation 14)
+2026-11-07 06:07:56   Generation   19  bester   6055  Schnitt   1459  Schussweite 77 %  Decke 4 %  Treffer 7.4 HP  Phase 2 (Strafe 95 %)  (6.2 s)  (Generation 18 auf den Prüfflügen 5054 < Champion 5338)  Lehrplan fertig: volle Strafe, keine Hilfspunkte mehr.
+2026-11-07 06:07:56   Zeit: Start 2026-11-07 06:05:18 · Ende 2026-11-07 06:07:56 UTC · Dauer 2.6 min · je Generation 6.4 s (5.4–9.7 s) · Belohnungs-Prüfung 30.8 s · 4456 Flüge à 0.11 s Rechenzeit · Kerne ausgelastet 99 %
+2026-11-07 06:07:57   Camel gegen die Regel: Punkte 5338 · Treffer 7.6 · Abschüsse 1.63 · verloren 1.92 · Abstürze 0.88 · Abrisse 2.21 · Zusammenstöße 0.08 · Siege 67 % · Niederlagen 33 % · Dauer 20 s
+2026-11-07 06:07:59   Duell (Sicht Camel, gegen den Maßstab): 2566 · Punkte -2755 · Treffer 4.8 · Abschüsse 0.75 · verloren 2.58 · Abstürze 0.79 · Abrisse 1.33 · Zusammenstöße 0.08 · Siege 33 % · Niederlagen 67 % · Dauer 20 s
+2026-11-07 06:07:59   WECHSEL: überholt → jetzt trainiert Dr.I
+2026-11-07 06:08:00 — Runde 2: Dr.I trainiert, Block 1: 20 Generationen × 24
+2026-11-07 06:08:36   Lehrplan: Phase 1, Strafe für Treffer/Verluste 20 %, Hilfspunkte 100 %.
+2026-11-07 06:08:36   Belohnungs-Prüfung (jetzige Stufe): regel 1860 · nichtstuer -7898 · feigling -5862 · versteck -5440 · wolke -7898 · dauerfeuer 795 · kamikaze 2761 · zufall 1772
+2026-11-07 06:08:36   Belohnungs-Prüfung (End-Belohnung): regel -2975 · nichtstuer -10534 · feigling -10963 · versteck -10123 · wolke -10534 · dauerfeuer -3948 · kamikaze -2008 · zufall -1479
+2026-11-07 06:08:36   ANGEHALTEN — H4 Belohnungs-Prüfung: Zufall (lenkt wild) -1479 müsste unter Regel-Zero -2975 liegen
+2026-11-07 06:08:36 ANGEHALTEN durch den Trainer (Exit 2): Ursache in den Zeilen darüber.
+2026-11-07 06:08:36 Luftkampf beendet nach 0.1 h, 2 Runden. Beste gegen die Regel: Dr.I Gen. 0, -189 · Camel Gen. 14, 5338
