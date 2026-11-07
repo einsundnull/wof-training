@@ -2414,3 +2414,88 @@
 2026-11-07 13:58:53   Duell (Sicht Dr.I, gegen den Maßstab): 1009 · Punkte 2462 · Treffer 6.9 · Abschüsse 1.33 · verloren 2.13 · Abstürze 0.42 · Abrisse 0.75 · Zusammenstöße 0.08 · Siege 54 % · Niederlagen 46 % · Dauer 17 s
 2026-11-07 13:58:53   WECHSEL: überholt → jetzt trainiert Camel
 2026-11-07 13:58:54 — Runde 38: Camel trainiert, Block 1: 20 Generationen × 24
+2026-11-07 14:01:19   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 14:01:19   Belohnungs-Prüfung (jetzige Stufe): regel 210 · nichtstuer -7821 · feigling -11679 · versteck -8758 · wolke -7821 · dauerfeuer -4122 · kamikaze 3416 · zufall -48911
+2026-11-07 14:01:19   Belohnungs-Prüfung (End-Belohnung): regel 210 · nichtstuer -7821 · feigling -11679 · versteck -8758 · wolke -7821 · dauerfeuer -4122 · kamikaze 3416 · zufall -48911
+2026-11-07 14:01:19   Start 2026-11-07 13:58:54 UTC · Belohnungs-Prüfung 32.2 s.
+2026-11-07 14:01:19   Generation  961  bester   6101  Schnitt  -2975  Schussweite 64 %  Decke 0 %  Treffer 8.4 HP  Phase 3 (Strafe 100 %)  (8.5 s)  neuer Champion 2761 (aus Generation 960)
+2026-11-07 14:01:19   Generation  965  bester   5078  Schnitt    258  Schussweite 69 %  Decke 0 %  Treffer 8.2 HP  Phase 3 (Strafe 100 %)  (5.1 s)  neuer Champion 3883 (aus Generation 964)
+2026-11-07 14:01:19   Generation  966  bester   5123  Schnitt   -243  Schussweite 63 %  Decke 0 %  Treffer 8.9 HP  Phase 3 (Strafe 100 %)  (5.5 s)  neuer Champion 5540 (aus Generation 965)
+2026-11-07 14:01:19   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 14:01:19   Zeit: Start 2026-11-07 13:58:54 · Ende 2026-11-07 14:01:19 UTC · Dauer 2.4 min · je Generation 5.7 s (4.9–8.5 s) · Belohnungs-Prüfung 32.2 s · 4480 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 14:01:20   Camel gegen die Regel: Punkte 5443 · Treffer 8.6 · Abschüsse 1.67 · verloren 1.67 · Abstürze 0.54 · Abrisse 1.25 · Zusammenstöße 0.13 · Siege 67 % · Niederlagen 33 % · Dauer 14 s
+2026-11-07 14:01:21   Duell (Sicht Camel, gegen den Maßstab): 2948 · Punkte -1495 · Treffer 6.5 · Abschüsse 0.88 · verloren 2.42 · Abstürze 0.38 · Abrisse 0.63 · Zusammenstöße 0.13 · Siege 38 % · Niederlagen 63 % · Dauer 14 s
+2026-11-07 14:01:21   WECHSEL: überholt → jetzt trainiert Dr.I
+2026-11-07 14:01:22 — Runde 39: Dr.I trainiert, Block 1: 20 Generationen × 24
+2026-11-07 14:03:46   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 14:03:46   Belohnungs-Prüfung (jetzige Stufe): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:03:46   Belohnungs-Prüfung (End-Belohnung): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:03:46   Start 2026-11-07 14:01:22 UTC · Belohnungs-Prüfung 36.8 s.
+2026-11-07 14:03:46   Generation 2262  bester   2740  Schnitt  -8704  Schussweite 59 %  Decke 0 %  Treffer 7.3 HP  Phase 3 (Strafe 100 %)  (8.5 s)  neuer Champion 2531 (aus Generation 2261)
+2026-11-07 14:03:46   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-07 14:03:46   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 14:03:46   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 14:03:46   WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+2026-11-07 14:03:46   WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+2026-11-07 14:03:46   WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+2026-11-07 14:03:46   WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+2026-11-07 14:03:46   Zeit: Start 2026-11-07 14:01:22 · Ende 2026-11-07 14:03:46 UTC · Dauer 2.4 min · je Generation 5.3 s (4.2–8.5 s) · Belohnungs-Prüfung 36.8 s · 4432 Flüge à 0.09 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 14:03:47   Dr.I gegen die Regel: Punkte 4061 · Treffer 7.2 · Abschüsse 1.33 · verloren 1.71 · Abstürze 0.29 · Abrisse 0.75 · Zusammenstöße 0.04 · Siege 71 % · Niederlagen 29 % · Dauer 15 s
+2026-11-07 14:03:48   Duell (Sicht Dr.I, gegen den Maßstab): -2948 · Punkte -1495 · Treffer 6.5 · Abschüsse 0.88 · verloren 2.42 · Abstürze 0.38 · Abrisse 0.63 · Zusammenstöße 0.13 · Siege 38 % · Niederlagen 63 % · Dauer 14 s
+2026-11-07 14:03:48 — Runde 40: Dr.I trainiert, Block 2: 20 Generationen × 24
+2026-11-07 14:06:19   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 14:06:19   Belohnungs-Prüfung (jetzige Stufe): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:06:19   Belohnungs-Prüfung (End-Belohnung): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:06:19   Start 2026-11-07 14:03:48 UTC · Belohnungs-Prüfung 37.1 s.
+2026-11-07 14:06:19   Generation 2282  bester   3485  Schnitt   9714  Schussweite 48 %  Decke 0 %  Treffer 6.6 HP  Phase 3 (Strafe 100 %)  (8.0 s)  neuer Champion 2531 (aus Generation 2281)
+2026-11-07 14:06:19   Generation 2285  bester   3576  Schnitt   3419  Schussweite 60 %  Decke 0 %  Treffer 7.4 HP  Phase 3 (Strafe 100 %)  (5.0 s)  neuer Champion 2885 (aus Generation 2284)
+2026-11-07 14:06:19   Generation 2287  bester   4224  Schnitt  11243  Schussweite 53 %  Decke 0 %  Treffer 8.1 HP  Phase 3 (Strafe 100 %)  (4.9 s)  neuer Champion 2895 (aus Generation 2286)
+2026-11-07 14:06:19   Generation 2290  bester   6585  Schnitt   5200  Schussweite 59 %  Decke 0 %  Treffer 8 HP  Phase 3 (Strafe 100 %)  (5.5 s)  neuer Champion 3135 (aus Generation 2289)
+2026-11-07 14:06:19   Zeit: Start 2026-11-07 14:03:48 · Ende 2026-11-07 14:06:19 UTC · Dauer 2.5 min · je Generation 5.7 s (4.9–8.0 s) · Belohnungs-Prüfung 37.1 s · 4504 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 14:06:20   Dr.I gegen die Regel: Punkte 3462 · Treffer 7.6 · Abschüsse 1.33 · verloren 1.96 · Abstürze 0.42 · Abrisse 1.00 · Zusammenstöße 0.00 · Siege 63 % · Niederlagen 38 % · Dauer 18 s
+2026-11-07 14:06:21   Duell (Sicht Dr.I, gegen den Maßstab): -1040 · Punkte 412 · Treffer 6.1 · Abschüsse 0.96 · verloren 2.08 · Abstürze 0.17 · Abrisse 0.42 · Zusammenstöße 0.08 · Siege 63 % · Niederlagen 38 % · Dauer 18 s
+2026-11-07 14:06:21 — Runde 41: Dr.I trainiert, Block 3: 20 Generationen × 24
+2026-11-07 14:08:51   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 14:08:51   Belohnungs-Prüfung (jetzige Stufe): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:08:51   Belohnungs-Prüfung (End-Belohnung): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:08:51   Start 2026-11-07 14:06:21 UTC · Belohnungs-Prüfung 37.1 s.
+2026-11-07 14:08:51   Generation 2302  bester   2642  Schnitt   1939  Schussweite 56 %  Decke 0 %  Treffer 7.7 HP  Phase 3 (Strafe 100 %)  (9.2 s)  neuer Champion 3135 (aus Generation 2301)
+2026-11-07 14:08:51   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 14:08:51   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 14:08:51   Generation 2318  bester   1997  Schnitt   5968  Schussweite 63 %  Decke 0 %  Treffer 6.4 HP  Phase 3 (Strafe 100 %)  (5.3 s)  neuer Champion 3390 (aus Generation 2317)
+2026-11-07 14:08:51   Zeit: Start 2026-11-07 14:06:21 · Ende 2026-11-07 14:08:51 UTC · Dauer 2.5 min · je Generation 5.6 s (4.6–9.2 s) · Belohnungs-Prüfung 37.1 s · 4480 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 14:08:51   Dr.I gegen die Regel: Punkte 4955 · Treffer 7.2 · Abschüsse 1.29 · verloren 1.42 · Abstürze 0.25 · Abrisse 0.83 · Zusammenstöße 0.00 · Siege 79 % · Niederlagen 21 % · Dauer 15 s
+2026-11-07 14:08:53   Duell (Sicht Dr.I, gegen den Maßstab): -1049 · Punkte 403 · Treffer 6.5 · Abschüsse 1.00 · verloren 2.13 · Abstürze 0.21 · Abrisse 0.46 · Zusammenstöße 0.08 · Siege 58 % · Niederlagen 42 % · Dauer 19 s
+2026-11-07 14:08:53 — Runde 42: Dr.I trainiert, Block 4: 20 Generationen × 24
+2026-11-07 14:11:19   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 14:11:19   Belohnungs-Prüfung (jetzige Stufe): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:11:19   Belohnungs-Prüfung (End-Belohnung): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:11:19   Start 2026-11-07 14:08:53 UTC · Belohnungs-Prüfung 37.0 s.
+2026-11-07 14:11:19   Generation 2322  bester   2135  Schnitt  -3328  Schussweite 62 %  Decke 0 %  Treffer 7.6 HP  Phase 3 (Strafe 100 %)  (9.6 s)  neuer Champion 3390 (aus Generation 2321)
+2026-11-07 14:11:19   Generation 2323  bester   4923  Schnitt   2883  Schussweite 60 %  Decke 0 %  Treffer 8 HP  Phase 3 (Strafe 100 %)  (4.7 s)  neuer Champion 3582 (aus Generation 2322)
+2026-11-07 14:11:19   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 14:11:19   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 14:11:19   WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+2026-11-07 14:11:19   WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+2026-11-07 14:11:19   WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+2026-11-07 14:11:19   Zeit: Start 2026-11-07 14:08:53 · Ende 2026-11-07 14:11:19 UTC · Dauer 2.4 min · je Generation 5.5 s (4.2–9.6 s) · Belohnungs-Prüfung 37.0 s · 4432 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 14:11:20   Dr.I gegen die Regel: Punkte 4646 · Treffer 7.3 · Abschüsse 1.38 · verloren 1.67 · Abstürze 0.17 · Abrisse 0.58 · Zusammenstöße 0.08 · Siege 75 % · Niederlagen 25 % · Dauer 18 s
+2026-11-07 14:11:21   Duell (Sicht Dr.I, gegen den Maßstab): -967 · Punkte 485 · Treffer 6.8 · Abschüsse 0.96 · verloren 2.00 · Abstürze 0.08 · Abrisse 0.33 · Zusammenstöße 0.08 · Siege 50 % · Niederlagen 50 % · Dauer 15 s
+2026-11-07 14:11:21 — Runde 43: Dr.I trainiert, Block 5: 20 Generationen × 24
+2026-11-07 14:13:51   Lehrplan: Phase 3, Strafe für Treffer/Verluste 100 %, Hilfspunkte 0 %.
+2026-11-07 14:13:51   Belohnungs-Prüfung (jetzige Stufe): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:13:51   Belohnungs-Prüfung (End-Belohnung): regel -1828 · nichtstuer -9793 · feigling -10636 · versteck -8515 · wolke -9793 · dauerfeuer -3151 · kamikaze 1998 · zufall -29927
+2026-11-07 14:13:51   Start 2026-11-07 14:11:21 UTC · Belohnungs-Prüfung 37.5 s.
+2026-11-07 14:13:51   Generation 2342  bester   2762  Schnitt   7071  Schussweite 58 %  Decke 0 %  Treffer 7.1 HP  Phase 3 (Strafe 100 %)  (7.8 s)  neuer Champion 3582 (aus Generation 2341)
+2026-11-07 14:13:51   WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+2026-11-07 14:13:51   WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+2026-11-07 14:13:51   WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+2026-11-07 14:13:51   WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+2026-11-07 14:13:51   WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+2026-11-07 14:13:51   WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+2026-11-07 14:13:51   Zeit: Start 2026-11-07 14:11:21 · Ende 2026-11-07 14:13:51 UTC · Dauer 2.5 min · je Generation 5.6 s (4.8–7.8 s) · Belohnungs-Prüfung 37.5 s · 4480 Flüge à 0.10 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-07 14:13:52   Dr.I gegen die Regel: Punkte 4646 · Treffer 7.3 · Abschüsse 1.38 · verloren 1.67 · Abstürze 0.17 · Abrisse 0.58 · Zusammenstöße 0.08 · Siege 75 % · Niederlagen 25 % · Dauer 18 s
+2026-11-07 14:13:53   Duell (Sicht Dr.I, gegen den Maßstab): -967 · Punkte 485 · Treffer 6.8 · Abschüsse 0.96 · verloren 2.00 · Abstürze 0.08 · Abrisse 0.33 · Zusammenstöße 0.08 · Siege 50 % · Niederlagen 50 % · Dauer 15 s
+2026-11-07 14:13:53   WECHSEL: 5 Blöcke ohne Überholen → jetzt trainiert Camel
+2026-11-07 14:13:54   RÜCKGRIFF Camel: gegen die Regel 5443, Bester 7615 (Gen. 479)
+2026-11-07 14:13:54 — Runde 44: Camel trainiert, Block 1: 20 Generationen × 24
