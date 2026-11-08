@@ -1,2 +1,164 @@
 Physik: Spiel-Physik data/tuning.json.
 Übung "camel": 110 Generationen × 24 Piloten, 1 Flug + 11 für die besten 16, 4 Kerne, weiter ab Generation 0
+Physik: Spiel-Physik data/tuning.json.
+Übung "camel": 110 Generationen × 24 Piloten, 1 Flug + 11 für die besten 16, 4 Kerne, weiter ab Generation 0
+Lehrplan: Phase 1, Strafe für Treffer/Verluste 20 %, Hilfspunkte 100 %.
+Belohnungs-Prüfung (jetzige Stufe): regel 12526 · nichtstuer -6708 · feigling -6940 · versteck -7431 · wolke -7506 · dauerfeuer 7279 · kamikaze 8489 · zufall -6200
+Belohnungs-Prüfung (End-Belohnung): regel 11906 · nichtstuer -6959 · feigling -7122 · versteck -7642 · wolke -7722 · dauerfeuer 6613 · kamikaze 7744 · zufall -6429
+Regel-Zero: 32 % in Schussweite, 256.8 HP Treffer — Maßstab für die Feigheits-Regel.
+Regel-Zero rammt 0.21-mal je Flug (24 Flüge) — Maßstab für den Wächter.
+Start 2026-11-08 00:53:12 UTC · Belohnungs-Prüfung 93.1 s.
+Generation    1  bester  18020  Schnitt  15329  Schussweite 32 %  Decke 6 %  Treffer 293.9 HP  Phase 1 (Strafe 20 %)  (40.9 s)  neuer Champion 11906 (aus Generation 0)
+Generation    2  bester  17169  Schnitt   8825  Schussweite 36 %  Decke 5 %  Treffer 259.2 HP  Phase 1 (Strafe 20 %)  (31.9 s)  neuer Champion 12697 (aus Generation 1)
+Generation    3  bester  16738  Schnitt   9084  Schussweite 35 %  Decke 4 %  Treffer 271.8 HP  Phase 1 (Strafe 20 %)  (34.8 s)  (Generation 2 auf den Prüfflügen 12041 < Champion 12697)  Lehrplan: Phase "Überleben" beginnt (3 Generationen so oft in Schussweite wie die Regel-Zero).
+Generation    4  bester  17719  Schnitt   6895  Schussweite 30 %  Decke 9 %  Treffer 247 HP  Phase 2 (Strafe 20 %)  (34.1 s)  (Generation 3 auf den Prüfflügen 11906 < Champion 12697)
+Generation    5  bester  18283  Schnitt  15097  Schussweite 37 %  Decke 5 %  Treffer 249.7 HP  Phase 2 (Strafe 25 %)  (32.7 s)  neuer Champion 14146 (aus Generation 4)
+Generation    6  bester  19865  Schnitt  12237  Schussweite 33 %  Decke 7 %  Treffer 334.1 HP  Phase 2 (Strafe 30 %)  (34.3 s)  (Generation 5 auf den Prüfflügen 13237 < Champion 14146)
+Generation    7  bester  17807  Schnitt  12898  Schussweite 31 %  Decke 3 %  Treffer 300.4 HP  Phase 2 (Strafe 35 %)  (32.5 s)  neuer Champion 14266 (aus Generation 6)
+Generation    8  bester  15524  Schnitt   2895  Schussweite 31 %  Decke 8 %  Treffer 335.3 HP  Phase 2 (Strafe 40 %)  (31.8 s)  neuer Champion 14328 (aus Generation 7)
+Generation    9  bester  17283  Schnitt  11478  Schussweite 38 %  Decke 4 %  Treffer 318.8 HP  Phase 2 (Strafe 45 %)  (32.9 s)  (Generation 8 auf den Prüfflügen 13725 < Champion 14328)
+Generation   10  bester  12717  Schnitt   7809  Schussweite 30 %  Decke 6 %  Treffer 190.2 HP  Phase 2 (Strafe 50 %)  (27.4 s)  Lehrplan: Strafe bleibt bei 50 % (Bester unter der Schwelle).
+Generation   11  bester  17119  Schnitt   8783  Schussweite 31 %  Decke 3 %  Treffer 304.5 HP  Phase 2 (Strafe 50 %)  (33.5 s)  neuer Champion 14507 (aus Generation 10)
+Generation   12  bester  17544  Schnitt  11664  Schussweite 29 %  Decke 4 %  Treffer 243.4 HP  Phase 2 (Strafe 55 %)  (33.8 s)  (Generation 11 auf den Prüfflügen 14328 < Champion 14507)
+Generation   13  bester  15570  Schnitt   8812  Schussweite 34 %  Decke 5 %  Treffer 233.6 HP  Phase 2 (Strafe 60 %)  (32.5 s)  (Generation 12 auf den Prüfflügen 14328 < Champion 14507)
+Generation   14  bester  16128  Schnitt  11472  Schussweite 32 %  Decke 7 %  Treffer 278.3 HP  Phase 2 (Strafe 65 %)  (33.8 s)  (Generation 13 auf den Prüfflügen 13093 < Champion 14507)
+Generation   15  bester  17485  Schnitt  15146  Schussweite 33 %  Decke 3 %  Treffer 237.5 HP  Phase 2 (Strafe 70 %)  (33.2 s)  (Generation 14 auf den Prüfflügen 13008 < Champion 14507)
+Generation   16  bester  14817  Schnitt   9561  Schussweite 30 %  Decke 5 %  Treffer 249 HP  Phase 2 (Strafe 75 %)  (34.7 s)  (Generation 15 auf den Prüfflügen 14225 < Champion 14507)
+Generation   17  bester  16643  Schnitt  13310  Schussweite 35 %  Decke 5 %  Treffer 350 HP  Phase 2 (Strafe 80 %)  (33.1 s)  (Generation 16 auf den Prüfflügen 14080 < Champion 14507)
+Generation   18  bester  14976  Schnitt   6984  Schussweite 30 %  Decke 6 %  Treffer 251.5 HP  Phase 2 (Strafe 85 %)  (31.3 s)  (Generation 17 auf den Prüfflügen 14020 < Champion 14507)
+Generation   19  bester  15215  Schnitt   6376  Schussweite 31 %  Decke 3 %  Treffer 291.6 HP  Phase 2 (Strafe 90 %)  (34.2 s)  (Generation 18 auf den Prüfflügen 14225 < Champion 14507)
+Generation   20  bester  16487  Schnitt  13198  Schussweite 33 %  Decke 4 %  Treffer 302.3 HP  Phase 2 (Strafe 95 %)  (29.4 s)  Lehrplan fertig: volle Strafe, keine Hilfspunkte mehr.
+Generation   21  bester  14845  Schnitt   7064  Schussweite 35 %  Decke 4 %  Treffer 282 HP  Phase 3 (Strafe 100 %)  (28.5 s)
+Generation   22  bester  15010  Schnitt   8634  Schussweite 32 %  Decke 3 %  Treffer 300.7 HP  Phase 3 (Strafe 100 %)  (35.0 s)  (Generation 21 auf den Prüfflügen 12613 < Champion 14507)
+Generation   23  bester  17452  Schnitt   9719  Schussweite 30 %  Decke 4 %  Treffer 242.3 HP  Phase 3 (Strafe 100 %)  (33.0 s)  (Generation 22 auf den Prüfflügen 12978 < Champion 14507)
+Generation   24  bester  20958  Schnitt   6799  Schussweite 35 %  Decke 7 %  Treffer 343.8 HP  Phase 3 (Strafe 100 %)  (33.8 s)  (Generation 23 auf den Prüfflügen 14013 < Champion 14507)
+Generation   25  bester  11910  Schnitt   4397  Schussweite 35 %  Decke 3 %  Treffer 346.1 HP  Phase 3 (Strafe 100 %)  (31.6 s)  neuer Champion 15244 (aus Generation 24)
+Generation   26  bester  18626  Schnitt   7427  Schussweite 35 %  Decke 2 %  Treffer 290.2 HP  Phase 3 (Strafe 100 %)  (32.0 s)  (Generation 25 auf den Prüfflügen 8900 < Champion 15244)
+Generation   27  bester  16329  Schnitt   7809  Schussweite 30 %  Decke 5 %  Treffer 270.8 HP  Phase 3 (Strafe 100 %)  (33.7 s)  neuer Champion 15669 (aus Generation 26)
+Generation   28  bester  15992  Schnitt   9099  Schussweite 33 %  Decke 6 %  Treffer 312.1 HP  Phase 3 (Strafe 100 %)  (33.1 s)  (Generation 27 auf den Prüfflügen 15244 < Champion 15669)
+Generation   29  bester  15885  Schnitt  12244  Schussweite 32 %  Decke 5 %  Treffer 260.1 HP  Phase 3 (Strafe 100 %)  (32.9 s)  (Generation 28 auf den Prüfflügen 12508 < Champion 15669)
+Generation   30  bester  14232  Schnitt   -547  Schussweite 32 %  Decke 4 %  Treffer 302.8 HP  Phase 3 (Strafe 100 %)  (32.7 s)  (Generation 29 auf den Prüfflügen 14374 < Champion 15669)
+Generation   31  bester  12823  Schnitt   7660  Schussweite 32 %  Decke 4 %  Treffer 287.1 HP  Phase 3 (Strafe 100 %)  (31.5 s)  (Generation 30 auf den Prüfflügen 12508 < Champion 15669)
+Generation   32  bester  17902  Schnitt   2390  Schussweite 36 %  Decke 5 %  Treffer 293.8 HP  Phase 3 (Strafe 100 %)  (32.9 s)  (Generation 31 auf den Prüfflügen 15244 < Champion 15669)
+Generation   33  bester  19861  Schnitt   4480  Schussweite 30 %  Decke 5 %  Treffer 366 HP  Phase 3 (Strafe 100 %)  (28.3 s)
+Generation   34  bester  14959  Schnitt   3462  Schussweite 31 %  Decke 2 %  Treffer 235.5 HP  Phase 3 (Strafe 100 %)  (31.6 s)  (Generation 33 auf den Prüfflügen 14643 < Champion 15669)
+Generation   35  bester  14873  Schnitt   7931  Schussweite 31 %  Decke 9 %  Treffer 292.1 HP  Phase 3 (Strafe 100 %)  (32.8 s)  (Generation 34 auf den Prüfflügen 12628 < Champion 15669)
+Generation   36  bester  14214  Schnitt   7767  Schussweite 33 %  Decke 7 %  Treffer 327.4 HP  Phase 3 (Strafe 100 %)  (33.2 s)  (Generation 35 auf den Prüfflügen 9766 < Champion 15669)
+Generation   37  bester  15269  Schnitt   4998  Schussweite 33 %  Decke 8 %  Treffer 324.2 HP  Phase 3 (Strafe 100 %)  (31.7 s)  (Generation 36 auf den Prüfflügen 14775 < Champion 15669)
+Generation   38  bester  16448  Schnitt   7500  Schussweite 29 %  Decke 3 %  Treffer 343.9 HP  Phase 3 (Strafe 100 %)  (30.0 s)
+Generation   39  bester  15985  Schnitt  10850  Schussweite 29 %  Decke 5 %  Treffer 251.7 HP  Phase 3 (Strafe 100 %)  (32.8 s)  (Generation 38 auf den Prüfflügen 14775 < Champion 15669)
+Generation   40  bester  17913  Schnitt    529  Schussweite 32 %  Decke 4 %  Treffer 284.7 HP  Phase 3 (Strafe 100 %)  (31.8 s)  (Generation 39 auf den Prüfflügen 14775 < Champion 15669)
+Generation   41  bester  15160  Schnitt   5614  Schussweite 33 %  Decke 6 %  Treffer 286.5 HP  Phase 3 (Strafe 100 %)  (29.4 s)
+  WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+Generation   42  bester  13143  Schnitt   8471  Schussweite 33 %  Decke 5 %  Treffer 264.8 HP  Phase 3 (Strafe 100 %)  (32.6 s)  (Generation 41 auf den Prüfflügen 14775 < Champion 15669)
+  WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+Generation   43  bester  19879  Schnitt   7483  Schussweite 35 %  Decke 4 %  Treffer 327.1 HP  Phase 3 (Strafe 100 %)  (34.4 s)  (Generation 42 auf den Prüfflügen 12765 < Champion 15669)
+  WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+Generation   44  bester  18602  Schnitt  10152  Schussweite 32 %  Decke 4 %  Treffer 281.9 HP  Phase 3 (Strafe 100 %)  (34.8 s)  (Generation 43 auf den Prüfflügen 11838 < Champion 15669)
+  WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+Generation   45  bester  17161  Schnitt   8540  Schussweite 38 %  Decke 4 %  Treffer 281.3 HP  Phase 3 (Strafe 100 %)  (32.9 s)  (Generation 44 auf den Prüfflügen 12172 < Champion 15669)
+  WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+Generation   46  bester  16249  Schnitt   5425  Schussweite 30 %  Decke 5 %  Treffer 365.6 HP  Phase 3 (Strafe 100 %)  (32.5 s)
+  WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+Generation   47  bester  14919  Schnitt   9356  Schussweite 33 %  Decke 4 %  Treffer 284.2 HP  Phase 3 (Strafe 100 %)  (34.3 s)  (Generation 46 auf den Prüfflügen 11221 < Champion 15669)
+  WARNUNG W1 — Stillstand: Champion seit 21 Generationen nicht besser.
+Generation   48  bester  17037  Schnitt   9096  Schussweite 35 %  Decke 3 %  Treffer 307 HP  Phase 3 (Strafe 100 %)  (34.2 s)  (Generation 47 auf den Prüfflügen 12012 < Champion 15669)
+  WARNUNG W1 — Stillstand: Champion seit 22 Generationen nicht besser.
+Generation   49  bester  16140  Schnitt   6587  Schussweite 36 %  Decke 7 %  Treffer 387.2 HP  Phase 3 (Strafe 100 %)  (36.3 s)  (Generation 48 auf den Prüfflügen 15536 < Champion 15669)
+  WARNUNG W1 — Stillstand: Champion seit 23 Generationen nicht besser.
+Generation   50  bester  13924  Schnitt   8686  Schussweite 31 %  Decke 6 %  Treffer 296.1 HP  Phase 3 (Strafe 100 %)  (33.4 s)  neuer Champion 16731 (aus Generation 49)
+Generation   51  bester  16593  Schnitt   7456  Schussweite 31 %  Decke 7 %  Treffer 323.1 HP  Phase 3 (Strafe 100 %)  (35.3 s)  (Generation 50 auf den Prüfflügen 15140 < Champion 16731)
+Generation   52  bester  17240  Schnitt   9865  Schussweite 34 %  Decke 6 %  Treffer 302.3 HP  Phase 3 (Strafe 100 %)  (30.9 s)
+Generation   53  bester  16781  Schnitt   8598  Schussweite 34 %  Decke 4 %  Treffer 318.3 HP  Phase 3 (Strafe 100 %)  (35.5 s)  (Generation 52 auf den Prüfflügen 12307 < Champion 16731)
+Generation   54  bester  16558  Schnitt   8560  Schussweite 31 %  Decke 4 %  Treffer 377.1 HP  Phase 3 (Strafe 100 %)  (37.4 s)  (Generation 53 auf den Prüfflügen 13935 < Champion 16731)
+Generation   55  bester  15808  Schnitt  11901  Schussweite 34 %  Decke 5 %  Treffer 227.4 HP  Phase 3 (Strafe 100 %)  (35.3 s)  (Generation 54 auf den Prüfflügen 13806 < Champion 16731)
+Generation   56  bester  19796  Schnitt   8732  Schussweite 35 %  Decke 4 %  Treffer 317.9 HP  Phase 3 (Strafe 100 %)  (38.5 s)  (Generation 55 auf den Prüfflügen 15357 < Champion 16731)
+Generation   57  bester  17867  Schnitt  13911  Schussweite 28 %  Decke 5 %  Treffer 282.6 HP  Phase 3 (Strafe 100 %)  (36.8 s)  (Generation 56 auf den Prüfflügen 13866 < Champion 16731)
+Generation   58  bester  13865  Schnitt   6591  Schussweite 34 %  Decke 3 %  Treffer 287.7 HP  Phase 3 (Strafe 100 %)  (36.2 s)  (Generation 57 auf den Prüfflügen 12833 < Champion 16731)
+Generation   59  bester  20181  Schnitt   8626  Schussweite 35 %  Decke 5 %  Treffer 296.9 HP  Phase 3 (Strafe 100 %)  (40.6 s)  (Generation 58 auf den Prüfflügen 14639 < Champion 16731)
+Generation   60  bester  16139  Schnitt   8663  Schussweite 36 %  Decke 3 %  Treffer 329.4 HP  Phase 3 (Strafe 100 %)  (33.2 s)
+Generation   61  bester  14731  Schnitt   3893  Schussweite 30 %  Decke 5 %  Treffer 259.6 HP  Phase 3 (Strafe 100 %)  (32.5 s)
+Generation   62  bester  16993  Schnitt   5191  Schussweite 31 %  Decke 5 %  Treffer 364.3 HP  Phase 3 (Strafe 100 %)  (39.9 s)  (Generation 61 auf den Prüfflügen 14039 < Champion 16731)
+Generation   63  bester  14917  Schnitt   6583  Schussweite 29 %  Decke 7 %  Treffer 254.1 HP  Phase 3 (Strafe 100 %)  (37.5 s)  (Generation 62 auf den Prüfflügen 14217 < Champion 16731)
+Generation   64  bester  16520  Schnitt   7252  Schussweite 34 %  Decke 5 %  Treffer 270.3 HP  Phase 3 (Strafe 100 %)  (33.3 s)
+  WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+Generation   65  bester  17719  Schnitt   6798  Schussweite 32 %  Decke 5 %  Treffer 352.4 HP  Phase 3 (Strafe 100 %)  (38.8 s)  (Generation 64 auf den Prüfflügen 13327 < Champion 16731)
+  WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+Generation   66  bester  16456  Schnitt   7056  Schussweite 34 %  Decke 4 %  Treffer 270.6 HP  Phase 3 (Strafe 100 %)  (36.7 s)  neuer Champion 17270 (aus Generation 65)
+Generation   67  bester  16456  Schnitt   4520  Schussweite 34 %  Decke 6 %  Treffer 355.7 HP  Phase 3 (Strafe 100 %)  (37.2 s)  (Generation 66 auf den Prüfflügen 16731 < Champion 17270)
+Generation   68  bester  18030  Schnitt   7099  Schussweite 33 %  Decke 3 %  Treffer 315.7 HP  Phase 3 (Strafe 100 %)  (38.0 s)  (Generation 67 auf den Prüfflügen 14422 < Champion 17270)
+Generation   69  bester  15376  Schnitt   8264  Schussweite 32 %  Decke 5 %  Treffer 292.8 HP  Phase 3 (Strafe 100 %)  (30.8 s)
+Generation   70  bester  18187  Schnitt   4723  Schussweite 34 %  Decke 5 %  Treffer 390.5 HP  Phase 3 (Strafe 100 %)  (40.8 s)  (Generation 69 auf den Prüfflügen 13543 < Champion 17270)
+Generation   71  bester  14848  Schnitt   9932  Schussweite 28 %  Decke 7 %  Treffer 252 HP  Phase 3 (Strafe 100 %)  (35.2 s)  (Generation 70 auf den Prüfflügen 13543 < Champion 17270)
+Generation   72  bester  14797  Schnitt   4407  Schussweite 35 %  Decke 5 %  Treffer 340.3 HP  Phase 3 (Strafe 100 %)  (36.8 s)  (Generation 71 auf den Prüfflügen 14422 < Champion 17270)
+Generation   73  bester  15813  Schnitt   5767  Schussweite 35 %  Decke 5 %  Treffer 335.3 HP  Phase 3 (Strafe 100 %)  (38.2 s)  (Generation 72 auf den Prüfflügen 14090 < Champion 17270)
+Generation   74  bester  18069  Schnitt   6118  Schussweite 35 %  Decke 7 %  Treffer 247 HP  Phase 3 (Strafe 100 %)  (37.5 s)  (Generation 73 auf den Prüfflügen 14090 < Champion 17270)
+Generation   75  bester  16662  Schnitt   4306  Schussweite 33 %  Decke 6 %  Treffer 300.6 HP  Phase 3 (Strafe 100 %)  (37.4 s)  (Generation 74 auf den Prüfflügen 14090 < Champion 17270)
+Generation   76  bester  15871  Schnitt   8614  Schussweite 34 %  Decke 7 %  Treffer 354.8 HP  Phase 3 (Strafe 100 %)  (39.1 s)  (Generation 75 auf den Prüfflügen 15020 < Champion 17270)
+Generation   77  bester  17407  Schnitt   7255  Schussweite 33 %  Decke 3 %  Treffer 272.6 HP  Phase 3 (Strafe 100 %)  (36.3 s)  (Generation 76 auf den Prüfflügen 15276 < Champion 17270)
+Generation   78  bester  16079  Schnitt   5735  Schussweite 28 %  Decke 7 %  Treffer 299.6 HP  Phase 3 (Strafe 100 %)  (41.3 s)  (Generation 77 auf den Prüfflügen 15020 < Champion 17270)
+Generation   79  bester  14894  Schnitt   7619  Schussweite 31 %  Decke 7 %  Treffer 254.6 HP  Phase 3 (Strafe 100 %)  (34.5 s)
+Generation   80  bester  14779  Schnitt   5621  Schussweite 32 %  Decke 6 %  Treffer 278.2 HP  Phase 3 (Strafe 100 %)  (33.5 s)
+  WARNUNG W1 — Stillstand: Champion seit 15 Generationen nicht besser.
+Generation   81  bester  15252  Schnitt   4509  Schussweite 27 %  Decke 3 %  Treffer 260.7 HP  Phase 3 (Strafe 100 %)  (39.0 s)  (Generation 80 auf den Prüfflügen 10892 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 16 Generationen nicht besser.
+Generation   82  bester  13599  Schnitt   4660  Schussweite 32 %  Decke 7 %  Treffer 227.4 HP  Phase 3 (Strafe 100 %)  (35.3 s)  (Generation 81 auf den Prüfflügen 15020 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 17 Generationen nicht besser.
+Generation   83  bester  16792  Schnitt   7814  Schussweite 35 %  Decke 3 %  Treffer 346.2 HP  Phase 3 (Strafe 100 %)  (38.8 s)  (Generation 82 auf den Prüfflügen 13124 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 18 Generationen nicht besser.
+Generation   84  bester  21208  Schnitt   9904  Schussweite 28 %  Decke 5 %  Treffer 314.4 HP  Phase 3 (Strafe 100 %)  (38.7 s)  (Generation 83 auf den Prüfflügen 13124 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 19 Generationen nicht besser.
+Generation   85  bester  16121  Schnitt   9339  Schussweite 36 %  Decke 3 %  Treffer 246.5 HP  Phase 3 (Strafe 100 %)  (36.9 s)  (Generation 84 auf den Prüfflügen 11997 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 20 Generationen nicht besser.
+Generation   86  bester  14686  Schnitt  12261  Schussweite 31 %  Decke 4 %  Treffer 286.6 HP  Phase 3 (Strafe 100 %)  (38.6 s)  (Generation 85 auf den Prüfflügen 11577 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 21 Generationen nicht besser.
+Generation   87  bester  17184  Schnitt   8551  Schussweite 36 %  Decke 4 %  Treffer 313.2 HP  Phase 3 (Strafe 100 %)  (35.6 s)  (Generation 86 auf den Prüfflügen 15833 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 22 Generationen nicht besser.
+Generation   88  bester  14938  Schnitt   8648  Schussweite 35 %  Decke 4 %  Treffer 283.4 HP  Phase 3 (Strafe 100 %)  (37.1 s)  (Generation 87 auf den Prüfflügen 10459 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 23 Generationen nicht besser.
+Generation   89  bester  14698  Schnitt   7969  Schussweite 27 %  Decke 4 %  Treffer 277.6 HP  Phase 3 (Strafe 100 %)  (37.6 s)  (Generation 88 auf den Prüfflügen 11939 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 24 Generationen nicht besser.
+Generation   90  bester  17789  Schnitt   8595  Schussweite 33 %  Decke 7 %  Treffer 282.4 HP  Phase 3 (Strafe 100 %)  (37.1 s)  (Generation 89 auf den Prüfflügen 13196 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 25 Generationen nicht besser.
+Generation   91  bester  16401  Schnitt   7977  Schussweite 34 %  Decke 3 %  Treffer 300.4 HP  Phase 3 (Strafe 100 %)  (37.3 s)  (Generation 90 auf den Prüfflügen 12752 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 26 Generationen nicht besser.
+Generation   92  bester  16518  Schnitt   7067  Schussweite 33 %  Decke 4 %  Treffer 300 HP  Phase 3 (Strafe 100 %)  (37.9 s)  (Generation 91 auf den Prüfflügen 13499 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 27 Generationen nicht besser.
+Generation   93  bester  17135  Schnitt   6323  Schussweite 29 %  Decke 5 %  Treffer 277.3 HP  Phase 3 (Strafe 100 %)  (36.3 s)  (Generation 92 auf den Prüfflügen 13238 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 28 Generationen nicht besser.
+Generation   94  bester  16047  Schnitt   5609  Schussweite 29 %  Decke 5 %  Treffer 347.3 HP  Phase 3 (Strafe 100 %)  (36.8 s)
+  WARNUNG W1 — Stillstand: Champion seit 29 Generationen nicht besser.
+Generation   95  bester  16385  Schnitt   7771  Schussweite 30 %  Decke 5 %  Treffer 234.1 HP  Phase 3 (Strafe 100 %)  (41.3 s)  (Generation 94 auf den Prüfflügen 14255 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 30 Generationen nicht besser.
+Generation   96  bester  15683  Schnitt   7651  Schussweite 32 %  Decke 3 %  Treffer 326.6 HP  Phase 3 (Strafe 100 %)  (37.6 s)  (Generation 95 auf den Prüfflügen 10728 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 31 Generationen nicht besser.
+Generation   97  bester  17967  Schnitt   8900  Schussweite 30 %  Decke 5 %  Treffer 285.4 HP  Phase 3 (Strafe 100 %)  (42.3 s)  (Generation 96 auf den Prüfflügen 11901 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 32 Generationen nicht besser.
+Generation   98  bester  15797  Schnitt   4076  Schussweite 33 %  Decke 3 %  Treffer 225.6 HP  Phase 3 (Strafe 100 %)  (38.8 s)  (Generation 97 auf den Prüfflügen 12744 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 33 Generationen nicht besser.
+Generation   99  bester  17617  Schnitt   7177  Schussweite 34 %  Decke 4 %  Treffer 319.3 HP  Phase 3 (Strafe 100 %)  (41.9 s)  (Generation 98 auf den Prüfflügen 14296 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 34 Generationen nicht besser.
+Generation  100  bester  15424  Schnitt   6209  Schussweite 32 %  Decke 2 %  Treffer 223.6 HP  Phase 3 (Strafe 100 %)  (38.6 s)  (Generation 99 auf den Prüfflügen 13775 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 35 Generationen nicht besser.
+Generation  101  bester  11427  Schnitt   6356  Schussweite 30 %  Decke 5 %  Treffer 324.5 HP  Phase 3 (Strafe 100 %)  (36.2 s)  (Generation 100 auf den Prüfflügen 14296 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 36 Generationen nicht besser.
+Generation  102  bester  14615  Schnitt   6882  Schussweite 35 %  Decke 3 %  Treffer 324.7 HP  Phase 3 (Strafe 100 %)  (46.4 s)  (Generation 101 auf den Prüfflügen 14296 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 37 Generationen nicht besser.
+Generation  103  bester  16616  Schnitt   8929  Schussweite 34 %  Decke 6 %  Treffer 301.5 HP  Phase 3 (Strafe 100 %)  (36.5 s)
+  WARNUNG W1 — Stillstand: Champion seit 38 Generationen nicht besser.
+Generation  104  bester  16573  Schnitt   -815  Schussweite 33 %  Decke 4 %  Treffer 323.5 HP  Phase 3 (Strafe 100 %)  (41.0 s)  (Generation 103 auf den Prüfflügen 13802 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 39 Generationen nicht besser.
+Generation  105  bester  14867  Schnitt   7870  Schussweite 29 %  Decke 7 %  Treffer 222.8 HP  Phase 3 (Strafe 100 %)  (43.4 s)  (Generation 104 auf den Prüfflügen 14296 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 40 Generationen nicht besser.
+Generation  106  bester  13384  Schnitt   2515  Schussweite 34 %  Decke 4 %  Treffer 300.1 HP  Phase 3 (Strafe 100 %)  (34.5 s)
+  WARNUNG W1 — Stillstand: Champion seit 41 Generationen nicht besser.
+Generation  107  bester  13881  Schnitt   7604  Schussweite 30 %  Decke 8 %  Treffer 296.2 HP  Phase 3 (Strafe 100 %)  (43.0 s)  (Generation 106 auf den Prüfflügen 14793 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 42 Generationen nicht besser.
+Generation  108  bester  17096  Schnitt   5807  Schussweite 32 %  Decke 4 %  Treffer 286.8 HP  Phase 3 (Strafe 100 %)  (40.5 s)  (Generation 107 auf den Prüfflügen 12731 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 43 Generationen nicht besser.
+Generation  109  bester  15167  Schnitt   9256  Schussweite 31 %  Decke 5 %  Treffer 298.2 HP  Phase 3 (Strafe 100 %)  (36.2 s)
+  WARNUNG W1 — Stillstand: Champion seit 44 Generationen nicht besser.
+Generation  110  bester  16052  Schnitt   5319  Schussweite 32 %  Decke 6 %  Treffer 329.6 HP  Phase 3 (Strafe 100 %)  (49.1 s)  (Generation 109 auf den Prüfflügen 12731 < Champion 17270)  (Generation 110 auf den Prüfflügen 10150 < Champion 17270)
+  WARNUNG W1 — Stillstand: Champion seit 45 Generationen nicht besser.
+Zeit: Start 2026-11-08 00:53:12 · Ende 2026-11-08 01:59:51 UTC · Dauer 66.7 min · je Generation 35.5 s (27.4–49.1 s) · Belohnungs-Prüfung 93.1 s · 24232 Flüge à 0.64 s Rechenzeit · Kerne ausgelastet 99 %
+Fertig. Bestes Gehirn "camel" steht in data/zero-brains.json.
