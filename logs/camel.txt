@@ -1,0 +1,2 @@
+Physik: Spiel-Physik data/tuning.json.
+Übung "camel": 110 Generationen × 24 Piloten, 1 Flug + 11 für die besten 16, 4 Kerne, weiter ab Generation 0
