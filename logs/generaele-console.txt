@@ -4744,3 +4744,91 @@ Node.js v22.23.4
 2026-11-09 07:12:43   VERWORFEN: Duell 9 → 41, gegen Regel -26 → -44 — weiter vom Stand vor dem Block
 2026-11-09 07:12:46   WECHSEL: 3 Blöcke nacheinander verworfen → jetzt trainieren die Amerikaner
 2026-11-09 07:12:49 — Runde 23: Amerikaner trainieren, Block 1: 10 Generationen × 24
+2026-11-09 07:14:30   Belohnungs-Prüfung: regel -47 · stuermer -56 · flieher -178 · zoegerer -67 · zufall 30
+2026-11-09 07:14:30   Start 2026-11-09 07:12:53 UTC · Belohnungs-Prüfung 22.8 s.
+2026-11-09 07:14:30   Generation 7006  bester    261  Schnitt    -70  Schussweite 1113 %  Decke 0 %  Treffer 15.2 HP  (13.1 s)  neuer Champion 199 (aus Generation 7005)
+2026-11-09 07:14:30   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:14:30   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:14:30   Zeit: Start 2026-11-09 07:12:53 · Ende 2026-11-09 07:14:30 UTC · Dauer 1.6 min · je Generation 7.5 s (4.4–13.1 s) · Belohnungs-Prüfung 22.8 s · 1296 Flüge à 0.23 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:14:33   Amerikaner gegen Regel: Punkte 262 · Feind-Tote 15.3 · eigene Tote 7.0 · Rückzug 0 % · Siege 88 % · Niederlagen 0 % · ohne Kampf 0 %
+2026-11-09 07:14:37   Duell (Sicht Amerikaner, gegen den Maßstab): -9 · Punkte -182 · Feind-Tote 8.0 · eigene Tote 14.4 · Rückzug 0 % · Siege 9 % · Niederlagen 78 % · ohne Kampf 0 %
+2026-11-09 07:14:37   VERWORFEN: Duell -9 → -9, gegen Regel 262 → 262 — weiter vom Stand vor dem Block
+2026-11-09 07:14:40 — Runde 24: Amerikaner trainieren, Block 2: 10 Generationen × 24
+2026-11-09 07:16:32   Belohnungs-Prüfung: regel -47 · stuermer -56 · flieher -178 · zoegerer -67 · zufall 30
+2026-11-09 07:16:32   Start 2026-11-09 07:14:43 UTC · Belohnungs-Prüfung 23.1 s.
+2026-11-09 07:16:32   Generation 7016  bester    248  Schnitt   -137  Schussweite 1426 %  Decke 0 %  Treffer 18 HP  (14.6 s)  neuer Champion 199 (aus Generation 7015)
+2026-11-09 07:16:32   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:16:32   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:16:32   Zeit: Start 2026-11-09 07:14:43 · Ende 2026-11-09 07:16:32 UTC · Dauer 1.8 min · je Generation 8.6 s (6.7–14.6 s) · Belohnungs-Prüfung 23.1 s · 1360 Flüge à 0.25 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:16:35   Amerikaner gegen Regel: Punkte 262 · Feind-Tote 15.3 · eigene Tote 7.0 · Rückzug 0 % · Siege 88 % · Niederlagen 0 % · ohne Kampf 0 %
+2026-11-09 07:16:39   Duell (Sicht Amerikaner, gegen den Maßstab): -9 · Punkte -182 · Feind-Tote 8.0 · eigene Tote 14.4 · Rückzug 0 % · Siege 9 % · Niederlagen 78 % · ohne Kampf 0 %
+2026-11-09 07:16:39   VERWORFEN: Duell -9 → -9, gegen Regel 262 → 262 — weiter vom Stand vor dem Block
+2026-11-09 07:16:42 — Runde 25: Amerikaner trainieren, Block 3: 10 Generationen × 24
+2026-11-09 07:18:29   Belohnungs-Prüfung: regel -47 · stuermer -56 · flieher -178 · zoegerer -67 · zufall 30
+2026-11-09 07:18:29   Start 2026-11-09 07:16:45 UTC · Belohnungs-Prüfung 22.4 s.
+2026-11-09 07:18:29   Generation 7026  bester    232  Schnitt    283  Schussweite 1390 %  Decke 0 %  Treffer 12.7 HP  (13.2 s)  neuer Champion 199 (aus Generation 7025)
+2026-11-09 07:18:29   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:18:29   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:18:29   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:18:29   Zeit: Start 2026-11-09 07:16:45 · Ende 2026-11-09 07:18:29 UTC · Dauer 1.7 min · je Generation 8.1 s (5.8–13.2 s) · Belohnungs-Prüfung 22.4 s · 1392 Flüge à 0.23 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:18:32   Amerikaner gegen Regel: Punkte 262 · Feind-Tote 15.3 · eigene Tote 7.0 · Rückzug 0 % · Siege 88 % · Niederlagen 0 % · ohne Kampf 0 %
+2026-11-09 07:18:35   Duell (Sicht Amerikaner, gegen den Maßstab): -9 · Punkte -182 · Feind-Tote 8.0 · eigene Tote 14.4 · Rückzug 0 % · Siege 9 % · Niederlagen 78 % · ohne Kampf 0 %
+2026-11-09 07:18:35   VERWORFEN: Duell -9 → -9, gegen Regel 262 → 262 — weiter vom Stand vor dem Block
+2026-11-09 07:18:39   WECHSEL: 3 Blöcke nacheinander verworfen → jetzt trainieren die Deutschen
+2026-11-09 07:18:43 — Runde 26: Deutsche trainieren, Block 1: 10 Generationen × 24
+2026-11-09 07:20:35   Belohnungs-Prüfung: regel -40 · stuermer -6 · flieher -187 · zoegerer -71 · zufall 45
+2026-11-09 07:20:35   Start 2026-11-09 07:18:46 UTC · Belohnungs-Prüfung 20.6 s.
+2026-11-09 07:20:35   Generation 9555  bester     73  Schnitt    -92  Schussweite 1172 %  Decke 0 %  Treffer 12.8 HP  (16.0 s)  neuer Champion -67 (aus Generation 9554)
+2026-11-09 07:20:35   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:20:35   Generation 9564  bester    -24  Schnitt   -345  Schussweite 1468 %  Decke 0 %  Treffer 9.2 HP  (8.3 s)  (Generation 9563 auf den Prüfflügen -173 < Champion -67)  neuer Champion -62 (aus Generation 9564)
+2026-11-09 07:20:35   Zeit: Start 2026-11-09 07:18:46 · Ende 2026-11-09 07:20:35 UTC · Dauer 1.8 min · je Generation 8.8 s (7.2–16.0 s) · Belohnungs-Prüfung 20.6 s · 1392 Flüge à 0.25 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:20:39   Deutsche gegen Regel: Punkte -12 · Feind-Tote 14.0 · eigene Tote 13.9 · Rückzug 0 % · Siege 16 % · Niederlagen 56 % · ohne Kampf 0 %
+2026-11-09 07:20:42   Duell (Sicht Deutsche, gegen den Maßstab): 84 · Punkte -106 · Feind-Tote 10.3 · eigene Tote 14.4 · Rückzug 0 % · Siege 13 % · Niederlagen 66 % · ohne Kampf 0 %
+2026-11-09 07:20:42   ÜBERNOMMEN: Duell 9 → 84, gegen Regel -26 → -12
+2026-11-09 07:20:42   WECHSEL: überholt → jetzt trainieren die Amerikaner
+2026-11-09 07:20:45 — Runde 27: Amerikaner trainieren, Block 1: 10 Generationen × 24
+2026-11-09 07:22:30   Belohnungs-Prüfung: regel -55 · stuermer -52 · flieher -177 · zoegerer -97 · zufall 27
+2026-11-09 07:22:30   Start 2026-11-09 07:20:49 UTC · Belohnungs-Prüfung 22.2 s.
+2026-11-09 07:22:30   Generation 7036  bester    360  Schnitt    372  Schussweite 1535 %  Decke 0 %  Treffer 13.7 HP  (11.0 s)  neuer Champion 184 (aus Generation 7035)
+2026-11-09 07:22:30   Generation 7037  bester    258  Schnitt    300  Schussweite 1384 %  Decke 0 %  Treffer 15.8 HP  (8.4 s)  neuer Champion 214 (aus Generation 7036)
+2026-11-09 07:22:30   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:22:30   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:22:30   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:22:30   Zeit: Start 2026-11-09 07:20:49 · Ende 2026-11-09 07:22:30 UTC · Dauer 1.7 min · je Generation 7.9 s (6.2–11.0 s) · Belohnungs-Prüfung 22.2 s · 1392 Flüge à 0.22 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:22:34   Amerikaner gegen Regel: Punkte 238 · Feind-Tote 15.3 · eigene Tote 8.1 · Rückzug 0 % · Siege 84 % · Niederlagen 0 % · ohne Kampf 0 %
+2026-11-09 07:22:37   Duell (Sicht Amerikaner, gegen den Maßstab): 7 · Punkte -197 · Feind-Tote 9.7 · eigene Tote 15.0 · Rückzug 0 % · Siege 0 % · Niederlagen 78 % · ohne Kampf 0 %
+2026-11-09 07:22:37   VERWORFEN: Duell -84 → 7, gegen Regel 262 → 238 — weiter vom Stand vor dem Block
+2026-11-09 07:22:41 — Runde 28: Amerikaner trainieren, Block 2: 10 Generationen × 24
+2026-11-09 07:24:26   Belohnungs-Prüfung: regel -55 · stuermer -52 · flieher -177 · zoegerer -97 · zufall 27
+2026-11-09 07:24:26   Start 2026-11-09 07:22:44 UTC · Belohnungs-Prüfung 22.3 s.
+2026-11-09 07:24:26   Generation 7046  bester    222  Schnitt    222  Schussweite 1373 %  Decke 0 %  Treffer 15.8 HP  (14.4 s)  neuer Champion 184 (aus Generation 7045)
+2026-11-09 07:24:26   Generation 7047  bester    243  Schnitt    313  Schussweite 1498 %  Decke 0 %  Treffer 14.3 HP  (7.0 s)  neuer Champion 203 (aus Generation 7046)
+2026-11-09 07:24:26   Generation 7050  bester    313  Schnitt    288  Schussweite 1787 %  Decke 0 %  Treffer 17.7 HP  (6.8 s)  neuer Champion 243 (aus Generation 7049)
+2026-11-09 07:24:26   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:24:26   Zeit: Start 2026-11-09 07:22:44 · Ende 2026-11-09 07:24:26 UTC · Dauer 1.7 min · je Generation 8.0 s (5.9–14.4 s) · Belohnungs-Prüfung 22.3 s · 1360 Flüge à 0.23 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:24:29   Amerikaner gegen Regel: Punkte 223 · Feind-Tote 15.1 · eigene Tote 8.7 · Rückzug 0 % · Siege 84 % · Niederlagen 3 % · ohne Kampf 0 %
+2026-11-09 07:24:29   WARNUNG W4 — us: gegen die Regel 223, bester 262 (Gen. 5575)
+2026-11-09 07:24:33   Duell (Sicht Amerikaner, gegen den Maßstab): -19 · Punkte -172 · Feind-Tote 9.9 · eigene Tote 14.5 · Rückzug 0 % · Siege 3 % · Niederlagen 75 % · ohne Kampf 0 %
+2026-11-09 07:24:33   VERWORFEN: Duell -84 → -19, gegen Regel 262 → 223 — weiter vom Stand vor dem Block
+2026-11-09 07:24:36 — Runde 29: Amerikaner trainieren, Block 3: 10 Generationen × 24
+2026-11-09 07:26:24   Belohnungs-Prüfung: regel -55 · stuermer -52 · flieher -177 · zoegerer -97 · zufall 27
+2026-11-09 07:26:24   Start 2026-11-09 07:24:40 UTC · Belohnungs-Prüfung 23.0 s.
+2026-11-09 07:26:24   Generation 7056  bester    334  Schnitt    385  Schussweite 1885 %  Decke 0 %  Treffer 19 HP  (13.4 s)  neuer Champion 184 (aus Generation 7055)
+2026-11-09 07:26:24   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:26:24   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:26:24   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:26:24   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 07:26:24   Zeit: Start 2026-11-09 07:24:40 · Ende 2026-11-09 07:26:24 UTC · Dauer 1.7 min · je Generation 8.1 s (5.9–13.4 s) · Belohnungs-Prüfung 23.0 s · 1392 Flüge à 0.23 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:26:27   Amerikaner gegen Regel: Punkte 262 · Feind-Tote 15.3 · eigene Tote 7.0 · Rückzug 0 % · Siege 88 % · Niederlagen 0 % · ohne Kampf 0 %
+2026-11-09 07:26:31   Duell (Sicht Amerikaner, gegen den Maßstab): -84 · Punkte -106 · Feind-Tote 10.3 · eigene Tote 14.4 · Rückzug 0 % · Siege 13 % · Niederlagen 66 % · ohne Kampf 0 %
+2026-11-09 07:26:31   VERWORFEN: Duell -84 → -84, gegen Regel 262 → 262 — weiter vom Stand vor dem Block
+2026-11-09 07:26:34   WECHSEL: 3 Blöcke nacheinander verworfen → jetzt trainieren die Deutschen
+2026-11-09 07:26:38 — Runde 30: Deutsche trainieren, Block 1: 10 Generationen × 24
+2026-11-09 07:28:37   Belohnungs-Prüfung: regel -40 · stuermer -6 · flieher -187 · zoegerer -71 · zufall 45
+2026-11-09 07:28:37   Start 2026-11-09 07:26:42 UTC · Belohnungs-Prüfung 21.0 s.
+2026-11-09 07:28:37   Generation 9565  bester    229  Schnitt   -190  Schussweite 1805 %  Decke 0 %  Treffer 20.8 HP  (15.2 s)  neuer Champion -62 (aus Generation 9564)
+2026-11-09 07:28:37   Zeit: Start 2026-11-09 07:26:42 · Ende 2026-11-09 07:28:37 UTC · Dauer 1.9 min · je Generation 9.4 s (7.3–15.2 s) · Belohnungs-Prüfung 21.0 s · 1392 Flüge à 0.26 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 07:28:41   Deutsche gegen Regel: Punkte -12 · Feind-Tote 14.0 · eigene Tote 13.9 · Rückzug 0 % · Siege 16 % · Niederlagen 56 % · ohne Kampf 0 %
+2026-11-09 07:28:45   Duell (Sicht Deutsche, gegen den Maßstab): 84 · Punkte -106 · Feind-Tote 10.3 · eigene Tote 14.4 · Rückzug 0 % · Siege 13 % · Niederlagen 66 % · ohne Kampf 0 %
+2026-11-09 07:28:45   VERWORFEN: Duell 84 → 84, gegen Regel -12 → -12 — weiter vom Stand vor dem Block
+2026-11-09 07:28:48 — Runde 31: Deutsche trainieren, Block 2: 10 Generationen × 24
