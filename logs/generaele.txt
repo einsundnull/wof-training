@@ -13052,3 +13052,17 @@
 2026-11-09 06:23:58   Duell (Sicht Amerikaner, gegen den Maßstab): 1 · Punkte -191 · Feind-Tote 8.9 · eigene Tote 14.8 · Rückzug 0 % · Siege 3 % · Niederlagen 78 % · ohne Kampf 0 %
 2026-11-09 06:23:58   VERWORFEN: Duell -50 → 1, gegen Regel 262 → 141 — weiter vom Stand vor dem Block
 2026-11-09 06:24:05 — Runde 73: Amerikaner trainieren, Block 6: 10 Generationen × 24
+2026-11-09 06:27:47   Belohnungs-Prüfung: regel -14 · stuermer -49 · flieher -165 · zoegerer -104 · zufall -38
+2026-11-09 06:27:47   Start 2026-11-09 06:24:11 UTC · Belohnungs-Prüfung 47.7 s.
+2026-11-09 06:27:47   Generation 6876  bester    341  Schnitt    248  Schussweite 1671 %  Decke 0 %  Treffer 13.7 HP  (20.7 s)  neuer Champion 180 (aus Generation 6875)
+2026-11-09 06:27:47   Generation 6877  bester     54  Schnitt    304  Schussweite 1376 %  Decke 0 %  Treffer 14.2 HP  (17.4 s)  neuer Champion 196 (aus Generation 6876)
+2026-11-09 06:27:47   Generation 6881  bester    263  Schnitt   -240  Schussweite 1498 %  Decke 0 %  Treffer 14.5 HP  (14.6 s)  neuer Champion 210 (aus Generation 6880)
+2026-11-09 06:27:47   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 06:27:47   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 06:27:47   WARNUNG W3 — Vielfalt weg: fast alle fliegen gleich gut — Mutation findet nichts Neues.
+2026-11-09 06:27:47   Zeit: Start 2026-11-09 06:24:11 · Ende 2026-11-09 06:27:47 UTC · Dauer 3.6 min · je Generation 16.8 s (13.2–20.7 s) · Belohnungs-Prüfung 47.7 s · 1392 Flüge à 0.47 s Rechenzeit · Kerne ausgelastet 98 %
+2026-11-09 06:27:54   Amerikaner gegen Regel: Punkte 215 · Feind-Tote 15.3 · eigene Tote 8.9 · Rückzug 0 % · Siege 81 % · Niederlagen 0 % · ohne Kampf 0 %
+2026-11-09 06:27:54   WARNUNG W4 — us: gegen die Regel 215, bester 262 (Gen. 5575)
+2026-11-09 06:28:01   Duell (Sicht Amerikaner, gegen den Maßstab): -25 · Punkte -166 · Feind-Tote 9.5 · eigene Tote 14.3 · Rückzug 0 % · Siege 9 % · Niederlagen 78 % · ohne Kampf 0 %
+2026-11-09 06:28:01   VERWORFEN: Duell -50 → -25, gegen Regel 262 → 215 — weiter vom Stand vor dem Block
+2026-11-09 06:28:08 Duell-Training beendet nach 5.1 h. Beste gegen die Regel: Deutsche Gen. 9446, -68 · Amerikaner Gen. 5575, 262
